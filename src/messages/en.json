@@ -198,6 +198,17 @@
       "All Devices Support"
     ]
   },
+  "Countries": {
+    "title": "Premium IPTV Services in {country}",
+    "subtitle": "Experience the most stable 4K streaming service in {country} with local channels and zero buffering.",
+    "cta": "Get Started in {country}",
+    "features": {
+        "local": "Local {country} Channels",
+        "sports": "Premium European Sports",
+        "quality": "Ultra HD 4K Quality",
+        "support": "24/7 Local Support"
+    }
+  },
   "WhatsApp": {
     "phone": "+447818331940",
     "orderMessage": "Hi, I would like to order the {plan} plan from your website.",
