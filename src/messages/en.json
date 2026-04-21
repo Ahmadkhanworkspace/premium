@@ -18,12 +18,12 @@
     "searchPlaceholder": "Search channels or categories...",
     "categories": {
       "all": "All Channels",
-      "sports": "Sports & Events",
-      "movies": "Movies & Cinema",
-      "news": "International News",
-      "kids": "Kids & Family",
-      "documentary": "Documentary",
-      "music": "Music & Radio"
+      "sports": "Sports (Sky Sports, BT Sport, DAZN, Canal+, beIN)",
+      "movies": "Movies & Cinema (HBO, Netflix, Disney+, Sky Cinema)",
+      "news": "International News (BBC, CNN, Al Jazeera, Sky News)",
+      "kids": "Kids & Family (Disney Junior, Nick Jr, Cartoon Network)",
+      "documentary": "Documentary (National Geographic, Discovery, History)",
+      "music": "Music & Radio (MTV, VH1, NRJ, Sky Music)"
     },
     "features": {
       "f1": "Ultra HD Streaming",

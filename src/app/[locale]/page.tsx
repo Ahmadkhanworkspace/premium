@@ -1,4 +1,5 @@
 import { Hero } from "@/components/sections/Hero";
+import { Trust } from "@/components/sections/Trust";
 import { Features } from "@/components/sections/Features";
 import { Pricing } from "@/components/sections/Pricing";
 import { Testimonials } from "@/components/sections/Testimonials";
@@ -8,6 +9,7 @@ export default function HomePage() {
   return (
     <div className="flex flex-col w-full">
       <Hero />
+      <Trust />
       <div className="divider-gold mx-auto w-1/2" />
       <Features />
       <div className="divider-gold mx-auto w-1/2 opacity-10" />
