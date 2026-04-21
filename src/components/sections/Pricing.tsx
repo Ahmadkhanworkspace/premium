@@ -22,24 +22,31 @@ export function Pricing() {
 
   const plans = [
     {
-      id: "basic",
-      name: t("plans.basic.name"),
-      price: t("plans.basic.price"),
-      duration: t("plans.basic.duration"),
+      id: "m1",
+      name: "Starter Pass", // t("plans.m1.name")
+      price: "14.99",
+      duration: "1 " + t("monthly"),
       popular: false,
     },
     {
-      id: "pro",
-      name: t("plans.pro.name"),
-      price: t("plans.pro.price"),
-      duration: t("plans.pro.duration"),
+      id: "m3",
+      name: "Quarterly Access",
+      price: "24.99",
+      duration: "3 " + t("months"),
+      popular: false,
+    },
+    {
+      id: "m6",
+      name: "Premium Elite",
+      price: "34.99",
+      duration: "6 " + t("months"),
       popular: true,
     },
     {
-      id: "ultra",
-      name: t("plans.ultra.name"),
-      price: t("plans.ultra.price"),
-      duration: t("plans.ultra.duration"),
+      id: "m12",
+      name: "Ultimate Yearly",
+      price: "54.99",
+      duration: "1 " + t("year"),
       popular: false,
     },
   ];
@@ -75,7 +82,7 @@ export function Pricing() {
           </motion.p>
         </div>
 
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-10">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8">
           {plans.map((plan, idx) => (
             <motion.div
               key={plan.id}
