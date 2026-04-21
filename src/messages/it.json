@@ -1,0 +1,208 @@
+{
+  "Navbar": {
+    "home": "Casa",
+    "channels": "Canali",
+    "fifa": "Coppa del Mondo",
+    "pricing": "Prezzi",
+    "about": "Circa",
+    "blog": "Blog",
+    "faq": "Domande frequenti",
+    "contact": "Contatto",
+    "reseller": "Rivenditore",
+    "cta": "Inizia",
+    "plans": "Piani"
+  },
+  "Channels": {
+    "title": "Selezione dei canali premium",
+    "subtitle": "Esplora la nostra vasta libreria di oltre 20.000 canali live in tutte le categorie.",
+    "searchPlaceholder": "Cerca canali o categorie...",
+    "categories": {
+      "all": "Tutti i canali",
+      "sports": "Sport ed eventi",
+      "movies": "Film e cinema",
+      "news": "Notizie internazionali",
+      "kids": "Bambini e famiglia",
+      "documentary": "Documentario",
+      "music": "Musica e radio"
+    },
+    "features": {
+      "f1": "Streaming ultra HD",
+      "f2": "Nessun buffering",
+      "f3": "EPG incluso",
+      "f4": "Recupero di 7 giorni"
+    }
+  },
+  "About": {
+    "title": "Ridefinire la televisione",
+    "subtitle": "Forniamo intrattenimento premium alle famiglie di tutta Europa dal 2018.",
+    "missionTitle": "La nostra missione",
+    "missionDesc": "Per offrire l'esperienza IPTV più stabile e di altissima qualità senza i costi elevati del cavo tradizionale.",
+    "stats": {
+      "users": "Oltre 100.000 utenti attivi",
+      "uptime": "Tempo di attività del server del 99,99%.",
+      "support": "Supporto immediato"
+    }
+  },
+  "Contact": {
+    "title": "Mettiti in contatto",
+    "subtitle": "Hai domande? Il nostro team è disponibile 24 ore su 24, 7 giorni su 7 per assisterti.",
+    "form": {
+      "name": "Nome completo",
+      "email": "Indirizzo e-mail",
+      "subject": "Oggetto",
+      "message": "Il tuo messaggio",
+      "submit": "Invia messaggio",
+      "success": "Messaggio inviato con successo! Ti risponderemo a breve."
+    },
+    "info": {
+      "email": "support@premiumtv.services",
+      "whatsapp": "+44 700 000 000",
+      "hours": "Supporto tecnico 24 ore su 24, 7 giorni su 7"
+    }
+  },
+  "Fifa": {
+    "title": "Coppa del mondo FIFA e sport dal vivo",
+    "subtitle": "Guarda ogni partita della Coppa del Mondo in uno straordinario 4K Ultra HD. Non perdere mai un gol con la nostra copertura sportiva premium.",
+    "matchTitle": "Programma delle partite in diretta",
+    "qualityTitle": "Vivi l'atmosfera dello stadio",
+    "qualityDesc": "I nostri server sportivi dedicati garantiscono uno streaming senza ritardi durante eventi di punta come la Coppa del Mondo FIFA e la Champions League.",
+    "cta": "Ottieni subito il pass sportivo"
+  },
+  "Footer": {
+    "tagline": "La televisione reinventata per tutta l'Europa. Servizi IPTV premium con oltre 20.000 canali.",
+    "quickLinks": "Collegamenti rapidi",
+    "countries": "Paesi",
+    "support": "Supporto",
+    "copyright": "© 2026 ServiziPremiumTV. Tutti i diritti riservati."
+  },
+  "Home": {
+    "hero": {
+      "headline": "LA TELEVISIONE REIMMAGINATA PER TUTTA L'EUROPA",
+      "subheadline": "Scopri il massimo dell'intrattenimento con lo streaming 4K Ultra HD, oltre 20.000 canali live e una copertura europea completa.",
+      "ctaPrimary": "Inizia la prova gratuita",
+      "ctaSecondary": "Sfoglia canali"
+    },
+    "stats": {
+      "channels": "Oltre 20.000 canali live",
+      "quality": "4K Ultra HD",
+      "countries": "Oltre 50 paesi",
+      "uptime": "Tempo di attività del 99,9%."
+    },
+    "features": {
+      "title": "Perché scegliere la TV Premium?",
+      "subtitle": "Qualità, affidabilità e intrattenimento senza pari per lo spettatore moderno.",
+      "f1Title": "Oltre 20.000 canali live",
+      "f1Desc": "Accedi ai canali di tutto il mondo, inclusi sport, film e notizie.",
+      "f2Title": "Qualità 4K UltraHD",
+      "f2Desc": "Sperimenta uno streaming cristallino con zero buffering su tutti i dispositivi.",
+      "f3Title": "Recupero di 7 giorni",
+      "f3Desc": "Non perdere mai uno spettacolo con il nostro servizio completo di recupero di più giorni.",
+      "f4Title": "Supporto Premium 24 ore su 24, 7 giorni su 7",
+      "f4Desc": "Il nostro team dedicato è sempre qui per aiutarti a ottenere la migliore esperienza."
+    },
+    "pricing": {
+      "title": "Piani di intrattenimento premium",
+      "subtitle": "Scegli il piano perfetto per le tue esigenze di streaming.",
+      "popular": "Il più popolare",
+      "monthly": "Mese",
+      "months": "Mesi",
+      "year": "Anno",
+      "featuresList": {
+        "channels": "Oltre 20.000 canali live",
+        "vod": "Oltre 60.000 VOD e serie",
+        "quality": "4K/Ultra HD/HD",
+        "devices": "Tutti i dispositivi supportati",
+        "catchup": "Recupero in 7 giorni",
+        "support": "Supporto tecnico 24 ore su 24, 7 giorni su 7"
+      },
+      "plans": {
+        "basic": {
+          "name": "Passaggio standard",
+          "price": "14.99",
+          "duration": "1 mese"
+        },
+        "pro": {
+          "name": "Elite Premium",
+          "price": "44,99",
+          "duration": "6 mesi"
+        },
+        "ultra": {
+          "name": "Durata definitiva",
+          "price": "74,99",
+          "duration": "12 mesi"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Cosa dicono i nostri utenti",
+      "subtitle": "Unisciti alle migliaia di spettatori soddisfatti in tutta Europa che hanno scelto Premium TV.",
+      "items": {
+        "t1": {
+          "name": "Marco Schmidt",
+          "location": "Berlino, Germania",
+          "text": "La qualità 4K è effettivamente reale. Ho provato molti servizi, ma questo è il più stabile e la massima qualità che ho trovato."
+        },
+        "t2": {
+          "name": "Antonio Rossi",
+          "location": "Roma, Italia",
+          "text": "La migliore copertura sportiva di sempre. Champions League e F1 in perfetta qualità senza buffering. Altamente raccomandato!"
+        },
+        "t3": {
+          "name": "Elena Dubois",
+          "location": "Parigi, Francia",
+          "text": "La configurazione è stata semplicissima sulla mia Smart TV. L'assistenza clienti mi ha aiutato in pochi minuti quando avevo una domanda sull'elenco dei canali."
+        }
+      }
+    },
+    "faq": {
+      "title": "Domande frequenti",
+      "subtitle": "Tutto quello che devi sapere sui nostri servizi IPTV premium.",
+      "items": {
+        "q1": {
+          "q": "Quali dispositivi sono supportati?",
+          "a": "Supportiamo tutti i dispositivi: Smart TV (Samsung, LG, Sony), box Android, Firestick, Apple TV, smartphone e box Mag."
+        },
+        "q2": {
+          "q": "Quanto tempo occorre per l'attivazione?",
+          "a": "La maggior parte degli account viene attivata entro 15-30 minuti dal pagamento. Riceverai una email con tutte le istruzioni."
+        },
+        "q3": {
+          "q": "Ho bisogno di una VPN?",
+          "a": "No, non è necessaria una VPN poiché utilizziamo una tecnologia antigelo avanzata. Tuttavia, puoi usarne uno se preferisci."
+        },
+        "q4": {
+          "q": "Posso usarlo su più dispositivi?",
+          "a": "I nostri piani standard supportano un dispositivo alla volta. Contattaci per pacchetti multi-room se hai bisogno di streaming simultanei."
+        }
+      }
+    }
+  },
+  "Reseller": {
+    "title": "Diventa un rivenditore",
+    "subtitle": "Unisciti alla nostra rete e avvia oggi stesso la tua attività IPTV con la nostra infrastruttura premium.",
+    "benefits": {
+      "title": "Perché collaborare con noi?",
+      "b1Title": "Margini di profitto elevati",
+      "b1Desc": "Ottieni crediti a prezzi all'ingrosso e vendi alle tue tariffe.",
+      "b2Title": "Pannello professionale",
+      "b2Desc": "Gestisci i tuoi clienti, le linee e le prove con la nostra dashboard per rivenditori facile da usare.",
+      "b3Title": "Stabilità di livello superiore",
+      "b3Desc": "I nostri server sono ottimizzati per traffico ad alto volume con garanzia di uptime del 99,9%.",
+      "b4Title": "Supporto dedicato 24 ore su 24, 7 giorni su 7",
+      "b4Desc": "I rivenditori ricevono supporto prioritario per garantire il corretto svolgimento della loro attività."
+    },
+    "cta": "Contatto per il pannello rivenditori",
+    "panelFeatures": [
+      "Crea prove gratuite",
+      "Gestisci più abbonamenti",
+      "Opzione DNS personalizzato",
+      "Supporto per tutti i dispositivi"
+    ]
+  },
+  "WhatsApp": {
+    "phone": "+44700000000",
+    "orderMessage": "Salve, vorrei ordinare il piano {plan} dal vostro sito web.",
+    "resellerMessage": "Salve, sono interessato a diventare rivenditore. Si prega di fornire ulteriori informazioni sul pannello e sui prezzi.",
+    "trialMessage": "Salve, vorrei richiedere una prova gratuita di 24 ore."
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "Navbar": {
+    "home": "Accueil",
+    "channels": "Chaînes",
+    "fifa": "Coupe du Monde",
+    "pricing": "Tarifs",
+    "about": "À Propos",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "reseller": "Revendeur",
+    "cta": "Commencer",
+    "plans": "Forfaits"
+  },
+  "Channels": {
+    "title": "Sélection de Chaînes Premium",
+    "subtitle": "Explorez notre vaste bibliothèque de plus de 20 000 chaînes en direct dans toutes les catégories.",
+    "searchPlaceholder": "Rechercher des chaînes ou catégories...",
+    "categories": {
+      "all": "Toutes",
+      "sports": "Sports",
+      "movies": "Films & Cinéma",
+      "news": "Actualités",
+      "kids": "Enfants",
+      "documentary": "Documentaires",
+      "music": "Musique"
+    },
+    "features": {
+      "f1": "Diffusion Ultra HD",
+      "f2": "Sans Coupure",
+      "f3": "Guide TV",
+      "f4": "Replay 7 Jours"
+    }
+  },
+  "Home": {
+    "hero": {
+      "headline": "LA TÉLÉVISION RÉINVENTÉE POUR L'EUROPE",
+      "subheadline": "Découvrez le meilleur du divertissement avec une qualité 4K Ultra HD, plus de 20 000 chaînes, et une couverture européenne complète.",
+      "ctaPrimary": "Essai Gratuit",
+      "ctaSecondary": "Voir les Chaînes"
+    },
+    "stats": {
+      "channels": "20 000+ Chaînes en Direct",
+      "quality": "Qualité 4K Ultra HD",
+      "countries": "50+ Pays",
+      "uptime": "Disponibilité de 99.9%"
+    },
+    "features": {
+      "title": "Pourquoi Choisir Premium TV ?",
+      "subtitle": "Qualité, fiabilité et divertissement inégalés.",
+      "f1Title": "20 000+ Chaînes",
+      "f1Desc": "Accédez à des chaînes du monde entier.",
+      "f2Title": "Qualité 4K Ultra HD",
+      "f2Desc": "Streaming cristallin sans aucune coupure.",
+      "f3Title": "Replay sur 7 Jours",
+      "f3Desc": "Ne manquez jamais votre émission préférée.",
+      "f4Title": "Support Premium 24/7",
+      "f4Desc": "Notre équipe dédiée est toujours là pour vous aider."
+    },
+    "pricing": {
+      "title": "Forfaits de Divertissement Premium",
+      "subtitle": "Choisissez le forfait idéal pour vos besoins de streaming.",
+      "popular": "Le Plus Populaire",
+      "monthly": "Mois",
+      "months": "Mois",
+      "year": "An",
+      "featuresList": {
+        "channels": "20 000+ Chaînes en Direct",
+        "vod": "60 000+ VODs & Séries",
+        "quality": "4K / Ultra HD / HD",
+        "devices": "Tous les Appareils",
+        "catchup": "Replay sur 7 Jours",
+        "support": "Support Technique 24/7"
+      },
+      "plans": {
+        "basic": {
+          "name": "Pass Standard",
+          "price": "14.99",
+          "duration": "1 Mois"
+        },
+        "pro": {
+          "name": "Élite Premium",
+          "price": "44.99",
+          "duration": "6 Mois"
+        },
+        "ultra": {
+          "name": "Ultime À Vie",
+          "price": "74.99",
+          "duration": "12 Mois"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Ce Que Disent Nos Utilisateurs",
+      "subtitle": "Rejoignez des milliers de spectateurs satisfaits en Europe.",
+      "items": {
+        "t1": {
+          "name": "Marcus",
+          "location": "Berlin",
+          "text": "Incroyable!"
+        },
+        "t2": {
+          "name": "Antonio",
+          "location": "Rome",
+          "text": "Parfait!"
+        },
+        "t3": {
+          "name": "Elena",
+          "location": "Paris",
+          "text": "Très bien!"
+        }
+      }
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "subtitle": "Tout ce que vous devez savoir.",
+      "items": {
+        "q1": {
+          "q": "Appareils supportés?",
+          "a": "Tous les appareils."
+        },
+        "q2": {
+          "q": "Activation?",
+          "a": "Dans les 15 minutes."
+        },
+        "q3": {
+          "q": "Besoin d'un VPN?",
+          "a": "Non, pas nécessaire."
+        },
+        "q4": {
+          "q": "Plusieurs appareils?",
+          "a": "Un par forfait standard."
+        }
+      }
+    }
+  },
+  "Reseller": {
+    "title": "Devenez Revendeur",
+    "subtitle": "Rejoignez notre réseau et démarrez votre activité IPTV.",
+    "benefits": {
+      "title": "Pourquoi Nous Choisir?",
+      "b1Title": "Fortes Marges",
+      "b1Desc": "Bénéfices élevés.",
+      "b2Title": "Panel Pro",
+      "b2Desc": "Gérez facilement.",
+      "b3Title": "Stabilité Supérieure",
+      "b3Desc": "99.9% de disponibilité.",
+      "b4Title": "Support 24/7",
+      "b4Desc": "Nous sommes là pour vous."
+    },
+    "cta": "Contacter",
+    "panelFeatures": [
+      "Essais Gratuits",
+      "Souscriptions multiples",
+      "Options DNS Custom",
+      "Tous les appareils supportés"
+    ]
+  },
+  "About": {
+    "title": "La Télévision Réinventée",
+    "subtitle": "Divertissement premium depuis 2018.",
+    "missionTitle": "Notre Mission",
+    "missionDesc": "Offrir la meilleure expérience.",
+    "stats": {
+      "users": "100k+ Utilisateurs",
+      "uptime": "99.99% Disponibilité",
+      "support": "Support 24/7"
+    }
+  },
+  "Contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Nous sommes là pour vous aider.",
+    "form": {
+      "name": "Nom",
+      "email": "E-mail",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer",
+      "success": "Envoyé avec succès!"
+    },
+    "info": {
+      "email": "support@premiumtv.services",
+      "whatsapp": "+44 700 000 000",
+      "hours": "Support 24/7"
+    }
+  },
+  "Fifa": {
+    "title": "Coupe du Monde & Sports en Direct",
+    "subtitle": "Regardez chaque match en 4K Ultra HD.",
+    "matchTitle": "Calendrier des Matchs en Direct",
+    "qualityTitle": "Vivez l'Atmosphère du Stade",
+    "qualityDesc": "Serveurs de sport au top.",
+    "cta": "Acheter un Pass Sport"
+  },
+  "Footer": {
+    "tagline": "Télévision réinventée pour l'Europe.",
+    "quickLinks": "Liens Rapides",
+    "countries": "Pays",
+    "support": "Support",
+    "copyright": "© 2026 PremiumTVServices."
+  },
+  "WhatsApp": {
+    "phone": "+44700000000",
+    "orderMessage": "Bonjour",
+    "resellerMessage": "Bonjour",
+    "trialMessage": "Bonjour"
+  }
+}

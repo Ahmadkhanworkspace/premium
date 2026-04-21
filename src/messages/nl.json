@@ -1,0 +1,208 @@
+{
+  "Navbar": {
+    "home": "Thuis",
+    "channels": "Kanalen",
+    "fifa": "Wereldbeker",
+    "pricing": "Prijzen",
+    "about": "Over",
+    "blog": "Bloggen",
+    "faq": "Veelgestelde vragen",
+    "contact": "Contacteer",
+    "reseller": "Wederverkoper",
+    "cta": "Aan de slag",
+    "plans": "Plannen"
+  },
+  "Channels": {
+    "title": "Selectie van premiumkanalen",
+    "subtitle": "Ontdek onze uitgebreide bibliotheek met meer dan 20.000 livekanalen in alle categorieën.",
+    "searchPlaceholder": "Kanalen of categorieën zoeken...",
+    "categories": {
+      "all": "Alle kanalen",
+      "sports": "Sport en evenementen",
+      "movies": "Films en bioscoop",
+      "news": "Internationaal nieuws",
+      "kids": "Kinderen en familie",
+      "documentary": "Documentaire",
+      "music": "Muziek en radio"
+    },
+    "features": {
+      "f1": "Ultra HD-streaming",
+      "f2": "Geen buffering",
+      "f3": "EPG inbegrepen",
+      "f4": "7-daagse inhaalslag"
+    }
+  },
+  "About": {
+    "title": "Televisie opnieuw definiëren",
+    "subtitle": "Biedt sinds 2018 premium entertainment aan huishoudens in heel Europa.",
+    "missionTitle": "Onze missie",
+    "missionDesc": "Om de meest stabiele en hoogste kwaliteit IPTV-ervaring te leveren zonder de hoge kosten van traditionele kabel.",
+    "stats": {
+      "users": "100.000+ actieve gebruikers",
+      "uptime": "99,99% server-uptime",
+      "support": "Directe ondersteuning"
+    }
+  },
+  "Contact": {
+    "title": "Neem contact op",
+    "subtitle": "Heeft u vragen? Ons team staat 24/7 klaar om u te helpen.",
+    "form": {
+      "name": "Volledige naam",
+      "email": "E-mailadres",
+      "subject": "Onderwerp",
+      "message": "Jouw bericht",
+      "submit": "Bericht verzenden",
+      "success": "Bericht succesvol verzonden! We nemen zo snel mogelijk contact met u op."
+    },
+    "info": {
+      "email": "support@premiumtv.services",
+      "whatsapp": "+44 700 000 000",
+      "hours": "24/7 technische ondersteuning"
+    }
+  },
+  "Fifa": {
+    "title": "FIFA Wereldbeker en live sport",
+    "subtitle": "Bekijk elke wedstrijd van het WK in verbluffende 4K Ultra HD. Mis nooit meer een doel met onze premium sportdekking.",
+    "matchTitle": "Live wedstrijdschema",
+    "qualityTitle": "Ervaar de stadionsfeer",
+    "qualityDesc": "Onze speciale sportservers zorgen voor streaming zonder vertraging tijdens piekevenementen zoals het FIFA Wereldkampioenschap en de Champions League.",
+    "cta": "Koop nu een sportpas"
+  },
+  "Footer": {
+    "tagline": "Televisie opnieuw bedacht voor heel Europa. Premium IPTV-diensten met meer dan 20.000 kanalen.",
+    "quickLinks": "Snelle koppelingen",
+    "countries": "Landen",
+    "support": "Ondersteuning",
+    "copyright": "© 2026 PremiumTVDiensten. Alle rechten voorbehouden."
+  },
+  "Home": {
+    "hero": {
+      "headline": "TELEVISIE OPNIEUW ONTWORPEN VOOR HEEL EUROPA",
+      "subheadline": "Ervaar het ultieme entertainment met 4K Ultra HD-streaming, meer dan 20.000 livekanalen en volledige Europese dekking.",
+      "ctaPrimary": "Gratis proefperiode starten",
+      "ctaSecondary": "Blader door kanalen"
+    },
+    "stats": {
+      "channels": "20.000+ livekanalen",
+      "quality": "4K UltraHD",
+      "countries": "50+ landen",
+      "uptime": "99,9% uptime"
+    },
+    "features": {
+      "title": "Waarom kiezen voor Premium-TV?",
+      "subtitle": "Ongeëvenaarde kwaliteit, betrouwbaarheid en entertainment voor de moderne kijker.",
+      "f1Title": "20.000+ livekanalen",
+      "f1Desc": "Krijg toegang tot kanalen van over de hele wereld, waaronder sport, films en nieuws.",
+      "f2Title": "4K Ultra HD-kwaliteit",
+      "f2Desc": "Ervaar kristalheldere streaming zonder buffering op alle apparaten.",
+      "f3Title": "7-daagse inhaalslag",
+      "f3Desc": "Mis nooit meer een show met onze uitgebreide meerdaagse inhaalservice.",
+      "f4Title": "24/7 Premium-ondersteuning",
+      "f4Desc": "Ons toegewijde team staat altijd klaar om u te helpen de beste ervaring te krijgen."
+    },
+    "pricing": {
+      "title": "Premium entertainmentplannen",
+      "subtitle": "Kies het perfecte abonnement voor uw streamingbehoeften.",
+      "popular": "Meest populair",
+      "monthly": "Maand",
+      "months": "Maanden",
+      "year": "Jaar",
+      "featuresList": {
+        "channels": "20.000+ livekanalen",
+        "vod": "60.000+ VOD's en series",
+        "quality": "4K / UltraHD / HD",
+        "devices": "Alle apparaten ondersteund",
+        "catchup": "7 dagen inhalen",
+        "support": "24/7 technische ondersteuning"
+      },
+      "plans": {
+        "basic": {
+          "name": "Standaard pas",
+          "price": "14,99",
+          "duration": "1 maand"
+        },
+        "pro": {
+          "name": "Premium Elite",
+          "price": "44,99",
+          "duration": "6 maanden"
+        },
+        "ultra": {
+          "name": "Ultieme levensduur",
+          "price": "74,99",
+          "duration": "12 maanden"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Wat onze gebruikers zeggen",
+      "subtitle": "Sluit u aan bij duizenden tevreden kijkers in heel Europa die voor Premium TV hebben gekozen.",
+      "items": {
+        "t1": {
+          "name": "Marcus Schmidt",
+          "location": "Berlijn, Duitsland",
+          "text": "De 4K-kwaliteit is echt. Ik heb veel diensten geprobeerd, maar dit is de meest stabiele en hoogste kwaliteit die ik heb gevonden."
+        },
+        "t2": {
+          "name": "Antonio Rossi",
+          "location": "Rome, Italië",
+          "text": "Beste sportverslaggeving ooit. Champions League en F1 in perfecte kwaliteit zonder buffering. Sterk aanbevolen!"
+        },
+        "t3": {
+          "name": "Elena Dubois",
+          "location": "Parijs, Frankrijk",
+          "text": "De installatie was zo eenvoudig op mijn Smart TV. De klantenondersteuning hielp me binnen enkele minuten toen ik een vraag had over de zenderlijst."
+        }
+      }
+    },
+    "faq": {
+      "title": "Veelgestelde vragen",
+      "subtitle": "Alles wat u moet weten over onze premium IPTV-diensten.",
+      "items": {
+        "q1": {
+          "q": "Welke apparaten worden ondersteund?",
+          "a": "We ondersteunen alle apparaten: Smart TV's (Samsung, LG, Sony), Android-boxen, Firestick, Apple TV, Smartphones en Mag-boxen."
+        },
+        "q2": {
+          "q": "Hoe lang duurt het om te activeren?",
+          "a": "De meeste accounts worden binnen 15-30 minuten na betaling geactiveerd. Je ontvangt een e-mail met alle instructies."
+        },
+        "q3": {
+          "q": "Heb ik een VPN nodig?",
+          "a": "Nee, een VPN is niet vereist omdat we geavanceerde antivriestechnologie gebruiken. U kunt er echter een gebruiken als u dat wilt."
+        },
+        "q4": {
+          "q": "Kan ik het op meerdere apparaten gebruiken?",
+          "a": "Onze standaardabonnementen ondersteunen één apparaat tegelijk. Neem contact met ons op voor multiroompakketten als je gelijktijdige streams nodig hebt."
+        }
+      }
+    }
+  },
+  "Reseller": {
+    "title": "Word wederverkoper",
+    "subtitle": "Sluit u aan bij ons netwerk en start vandaag nog uw eigen IPTV-bedrijf met onze premium infrastructuur.",
+    "benefits": {
+      "title": "Waarom met ons samenwerken?",
+      "b1Title": "Hoge winstmarges",
+      "b1Desc": "Ontvang credits tegen groothandelsprijzen en verkoop tegen uw eigen tarieven.",
+      "b2Title": "Professioneel paneel",
+      "b2Desc": "Beheer uw klanten, lijnen en proefperiodes met ons gebruiksvriendelijke resellerdashboard.",
+      "b3Title": "Stabiliteit van het hoogste niveau",
+      "b3Desc": "Onze servers zijn geoptimaliseerd voor groot verkeer met een uptime-garantie van 99,9%.",
+      "b4Title": "24/7 toegewijde ondersteuning",
+      "b4Desc": "Resellers krijgen prioriteitsondersteuning om ervoor te zorgen dat hun bedrijf soepel verloopt."
+    },
+    "cta": "Contactpersoon voor het resellerpanel",
+    "panelFeatures": [
+      "Maak gratis proefversies",
+      "Beheer meerdere subs",
+      "Aangepaste DNS-optie",
+      "Ondersteuning voor alle apparaten"
+    ]
+  },
+  "WhatsApp": {
+    "phone": "+44700000000",
+    "orderMessage": "Hallo, ik wil graag het {plan}-abonnement bestellen via uw website.",
+    "resellerMessage": "Hallo, ik ben geïnteresseerd om reseller te worden. Geef alstublieft meer informatie over het paneel en de prijzen.",
+    "trialMessage": "Hallo, ik wil graag een gratis proefperiode van 24 uur aanvragen."
+  }
+}

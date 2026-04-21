@@ -1,0 +1,208 @@
+{
+  "Navbar": {
+    "home": "Domů",
+    "channels": "Kanály",
+    "fifa": "Světový pohár",
+    "pricing": "Ceny",
+    "about": "O",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "reseller": "Prodejce",
+    "cta": "Začněte",
+    "plans": "Plány"
+  },
+  "Channels": {
+    "title": "Výběr prémiového kanálu",
+    "subtitle": "Prozkoumejte naši rozsáhlou knihovnu s více než 20 000 živými kanály ve všech kategoriích.",
+    "searchPlaceholder": "Hledat kanály nebo kategorie...",
+    "categories": {
+      "all": "Všechny kanály",
+      "sports": "Sport a události",
+      "movies": "Filmy a kino",
+      "news": "Mezinárodní zprávy",
+      "kids": "Děti a rodina",
+      "documentary": "Dokumentární",
+      "music": "Hudba a rádio"
+    },
+    "features": {
+      "f1": "Ultra HD streamování",
+      "f2": "Žádné ukládání do vyrovnávací paměti",
+      "f3": "EPG v ceně",
+      "f4": "7denní dohánění"
+    }
+  },
+  "About": {
+    "title": "Předefinování televize",
+    "subtitle": "Od roku 2018 poskytujeme prémiovou zábavu domácnostem po celé Evropě.",
+    "missionTitle": "Naše poslání",
+    "missionDesc": "Poskytovat nejstabilnější a nejkvalitnější zážitek z IPTV bez vysokých nákladů na tradiční kabel.",
+    "stats": {
+      "users": "100 000+ aktivních uživatelů",
+      "uptime": "99,99% dostupnost serveru",
+      "support": "Okamžitá podpora"
+    }
+  },
+  "Contact": {
+    "title": "Kontaktujte nás",
+    "subtitle": "Máte otázky? Náš tým je k dispozici 24 hodin denně, 7 dní v týdnu, aby vám pomohl.",
+    "form": {
+      "name": "Celé jméno",
+      "email": "E-mailová adresa",
+      "subject": "Předmět",
+      "message": "Vaše zpráva",
+      "submit": "Odeslat zprávu",
+      "success": "Zpráva byla úspěšně odeslána! Brzy se vám ozveme."
+    },
+    "info": {
+      "email": "podpora@premiumtv.services",
+      "whatsapp": "+44 700 000 000",
+      "hours": "24/7 technická podpora"
+    }
+  },
+  "Fifa": {
+    "title": "Mistrovství světa ve fotbale a živé sporty",
+    "subtitle": "Sledujte každý zápas mistrovství světa v úžasném rozlišení 4K Ultra HD. S naším prémiovým sportovním pokrytím nikdy nezmeškáte gól.",
+    "matchTitle": "Živý rozpis zápasů",
+    "qualityTitle": "Zažijte atmosféru stadionu",
+    "qualityDesc": "Naše vyhrazené sportovní servery zajišťují streamování s nulovým zpožděním během vrcholných událostí, jako je mistrovství světa ve fotbale a Liga mistrů.",
+    "cta": "Získejte sportovní permanentku"
+  },
+  "Footer": {
+    "tagline": "Televize Reimagined pro celou Evropu. Prémiové služby IPTV s více než 20 000 kanály.",
+    "quickLinks": "Rychlé odkazy",
+    "countries": "země",
+    "support": "Podpora",
+    "copyright": "© 2026 PremiumTVServices. Všechna práva vyhrazena."
+  },
+  "Home": {
+    "hero": {
+      "headline": "TELEVIZE ZMĚNĚNÁ PRO CELOU EVROPU",
+      "subheadline": "Zažijte maximální zábavu se streamováním 4K Ultra HD, více než 20 000 živými kanály a kompletním evropským pokrytím.",
+      "ctaPrimary": "Spusťte bezplatnou zkušební verzi",
+      "ctaSecondary": "Procházet kanály"
+    },
+    "stats": {
+      "channels": "Více než 20 000 živých kanálů",
+      "quality": "4K Ultra HD",
+      "countries": "50+ zemí",
+      "uptime": "99,9% dostupnost"
+    },
+    "features": {
+      "title": "Proč zvolit Premium TV?",
+      "subtitle": "Bezkonkurenční kvalita, spolehlivost a zábava pro moderního diváka.",
+      "f1Title": "Více než 20 000 živých kanálů",
+      "f1Desc": "Získejte přístup ke kanálům z celého světa, včetně sportu, filmů a zpráv.",
+      "f2Title": "Kvalita 4K Ultra HD",
+      "f2Desc": "Zažijte křišťálově čisté streamování s nulovým ukládáním do vyrovnávací paměti na všech zařízeních.",
+      "f3Title": "7denní dohánění",
+      "f3Desc": "Už nikdy nezmeškáte žádnou show s naší komplexní vícedenní záchytnou službou.",
+      "f4Title": "24/7 prémiová podpora",
+      "f4Desc": "Náš specializovaný tým je tu vždy, aby vám pomohl získat ty nejlepší zkušenosti."
+    },
+    "pricing": {
+      "title": "Prémiové plány zábavy",
+      "subtitle": "Vyberte si perfektní plán pro vaše streamovací potřeby.",
+      "popular": "Nejoblíbenější",
+      "monthly": "měsíc",
+      "months": "měsíce",
+      "year": "rok",
+      "featuresList": {
+        "channels": "Více než 20 000 živých kanálů",
+        "vod": "60 000+ VOD a seriálů",
+        "quality": "4K / Ultra HD / HD",
+        "devices": "Všechna podporovaná zařízení",
+        "catchup": "7 dní dohnat",
+        "support": "24/7 technická podpora"
+      },
+      "plans": {
+        "basic": {
+          "name": "Standardní Pass",
+          "price": "14,99",
+          "duration": "1 měsíc"
+        },
+        "pro": {
+          "name": "Prémiová elita",
+          "price": "44,99",
+          "duration": "6 měsíců"
+        },
+        "ultra": {
+          "name": "Ultimate Lifetime",
+          "price": "74,99",
+          "duration": "12 měsíců"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Co říkají naši uživatelé",
+      "subtitle": "Přidejte se k tisícům spokojených diváků v celé Evropě, kteří si vybrali Premium TV.",
+      "items": {
+        "t1": {
+          "name": "Marcus Schmidt",
+          "location": "Berlín, Německo",
+          "text": "Kvalita 4K je skutečně skutečná. Vyzkoušel jsem mnoho služeb, ale tato je nejstabilnější a nejkvalitnější, kterou jsem našel."
+        },
+        "t2": {
+          "name": "Antonio Rossi",
+          "location": "Řím, Itálie",
+          "text": "Nejlepší sportovní zpravodajství vůbec. Liga mistrů a F1 v perfektní kvalitě bez vyrovnávací paměti. Vřele doporučujeme!"
+        },
+        "t3": {
+          "name": "Elena Duboisová",
+          "location": "Paříž, Francie",
+          "text": "Nastavení bylo na mé Smart TV tak snadné. Zákaznická podpora mi pomohla během několika minut, když jsem měl dotaz ohledně seznamu kanálů."
+        }
+      }
+    },
+    "faq": {
+      "title": "Často kladené otázky",
+      "subtitle": "Vše, co potřebujete vědět o našich prémiových službách IPTV.",
+      "items": {
+        "q1": {
+          "q": "Která zařízení jsou podporována?",
+          "a": "Podporujeme všechna zařízení: Smart TV (Samsung, LG, Sony), Android boxy, Firestick, Apple TV, chytré telefony a Mag boxy."
+        },
+        "q2": {
+          "q": "Jak dlouho trvá aktivace?",
+          "a": "Většina účtů je aktivována do 15-30 minut po zaplacení. Obdržíte e-mail se všemi pokyny."
+        },
+        "q3": {
+          "q": "Potřebuji VPN?",
+          "a": "Ne, VPN není vyžadována, protože používáme pokročilou technologii proti zamrznutí. Pokud však chcete, můžete jeden použít."
+        },
+        "q4": {
+          "q": "Mohu jej použít na více zařízeních?",
+          "a": "Naše standardní plány podporují vždy jedno zařízení. Pokud potřebujete simultánní streamy, kontaktujte nás pro balíčky pro více místností."
+        }
+      }
+    }
+  },
+  "Reseller": {
+    "title": "Staňte se prodejcem",
+    "subtitle": "Připojte se k naší síti a začněte svůj vlastní IPTV podnik ještě dnes s naší prémiovou infrastrukturou.",
+    "benefits": {
+      "title": "Proč s námi spolupracovat?",
+      "b1Title": "Vysoké ziskové marže",
+      "b1Desc": "Získejte kredity za velkoobchodní ceny a prodávejte za své vlastní ceny.",
+      "b2Title": "Profesionální panel",
+      "b2Desc": "Spravujte své zákazníky, linky a zkušební verze pomocí našeho snadno použitelného řídicího panelu prodejce.",
+      "b3Title": "Stabilita nejvyšší úrovně",
+      "b3Desc": "Naše servery jsou optimalizovány pro vysokoobjemový provoz s 99,9% zárukou dostupnosti.",
+      "b4Title": "24/7 vyhrazená podpora",
+      "b4Desc": "Prodejci dostávají přednostní podporu, aby zajistili hladký chod jejich podnikání."
+    },
+    "cta": "Kontakt na panel distributorů",
+    "panelFeatures": [
+      "Vytvořte bezplatné zkušební verze",
+      "Správa více odběratelů",
+      "Vlastní možnost DNS",
+      "Podpora všech zařízení"
+    ]
+  },
+  "WhatsApp": {
+    "phone": "+44700000000",
+    "orderMessage": "Dobrý den, rád bych si z vašeho webu objednal plán {plan}.",
+    "resellerMessage": "Dobrý den, mám zájem stát se prodejcem. Uveďte prosím více informací o panelu a ceně.",
+    "trialMessage": "Dobrý den, chtěl bych požádat o bezplatnou 24hodinovou zkušební verzi."
+  }
+}

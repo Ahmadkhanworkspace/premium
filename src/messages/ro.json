@@ -1,0 +1,208 @@
+{
+  "Navbar": {
+    "home": "Acasă",
+    "channels": "Canale",
+    "fifa": "Cupa Mondială",
+    "pricing": "Prețuri",
+    "about": "Despre",
+    "blog": "Blog",
+    "faq": "Întrebări frecvente",
+    "contact": "Contact",
+    "reseller": "Revânzător",
+    "cta": "Începeți",
+    "plans": "Planuri"
+  },
+  "Channels": {
+    "title": "Selectare canal premium",
+    "subtitle": "Explorați biblioteca noastră vastă de peste 20.000 de canale live din toate categoriile.",
+    "searchPlaceholder": "Căutați canale sau categorii...",
+    "categories": {
+      "all": "Toate canalele",
+      "sports": "Sport și evenimente",
+      "movies": "Filme și cinema",
+      "news": "Știri internaționale",
+      "kids": "Copii și familie",
+      "documentary": "Documentar",
+      "music": "Muzică și radio"
+    },
+    "features": {
+      "f1": "Streaming Ultra HD",
+      "f2": "Fără tamponare",
+      "f3": "EPG inclus",
+      "f4": "Recuperare de 7 zile"
+    }
+  },
+  "About": {
+    "title": "Redefinirea televiziunii",
+    "subtitle": "Oferă divertisment premium pentru gospodăriile din întreaga Europă din 2018.",
+    "missionTitle": "Misiunea noastră",
+    "missionDesc": "Pentru a oferi cea mai stabilă și cea mai înaltă calitate experiență IPTV fără costurile ridicate ale cablului tradițional.",
+    "stats": {
+      "users": "Peste 100.000 de utilizatori activi",
+      "uptime": "99,99% Timp de funcționare a serverului",
+      "support": "Suport instant"
+    }
+  },
+  "Contact": {
+    "title": "Luați legătura",
+    "subtitle": "Ai întrebări? Echipa noastră este disponibilă 24/7 pentru a vă ajuta.",
+    "form": {
+      "name": "Nume complet",
+      "email": "Adresa de email",
+      "subject": "Subiect",
+      "message": "Mesajul dvs",
+      "submit": "Trimite mesaj",
+      "success": "Mesaj trimis cu succes! Vă vom reveni în curând."
+    },
+    "info": {
+      "email": "support@premiumtv.services",
+      "whatsapp": "+44 700 000 000",
+      "hours": "Suport tehnic 24/7"
+    }
+  },
+  "Fifa": {
+    "title": "Cupa Mondială FIFA și sport în direct",
+    "subtitle": "Urmărește fiecare meci al Cupei Mondiale în 4K Ultra HD uimitor. Nu ratați niciodată un obiectiv cu acoperirea noastră premium pentru sport.",
+    "matchTitle": "Programul meciurilor live",
+    "qualityTitle": "Experimentează atmosfera de stadion",
+    "qualityDesc": "Serverele noastre dedicate pentru sport asigură streaming fără întârziere în timpul evenimentelor de vârf precum Cupa Mondială FIFA și Liga Campionilor.",
+    "cta": "Obțineți abonament pentru sport acum"
+  },
+  "Footer": {
+    "tagline": "Televiziunea reimaginată pentru toată Europa. Servicii IPTV premium cu peste 20.000 de canale.",
+    "quickLinks": "Legături rapide",
+    "countries": "Țări",
+    "support": "Sprijin",
+    "copyright": "© 2026 PremiumTVServices. Toate drepturile rezervate."
+  },
+  "Home": {
+    "hero": {
+      "headline": "TELEVIZIUNEA REIMAGINATA PENTRU TOATA EUROPA",
+      "subheadline": "Experimentați divertismentul suprem cu streaming 4K Ultra HD, peste 20.000 de canale live și acoperire europeană completă.",
+      "ctaPrimary": "Începeți proba gratuită",
+      "ctaSecondary": "Răsfoiți canale"
+    },
+    "stats": {
+      "channels": "Peste 20.000 de canale live",
+      "quality": "4K Ultra HD",
+      "countries": "Peste 50 de țări",
+      "uptime": "Timp de funcționare de 99,9%."
+    },
+    "features": {
+      "title": "De ce să alegeți Premium TV?",
+      "subtitle": "Calitate, fiabilitate și divertisment de neegalat pentru spectatorul modern.",
+      "f1Title": "Peste 20.000 de canale live",
+      "f1Desc": "Accesați canale din întreaga lume, inclusiv sport, filme și știri.",
+      "f2Title": "Calitate 4K Ultra HD",
+      "f2Desc": "Experimentați streaming limpede, cu zero buffering pe toate dispozitivele.",
+      "f3Title": "Recuperare de 7 zile",
+      "f3Desc": "Nu ratați niciodată un spectacol cu ​​serviciul nostru complet de recuperare de mai multe zile.",
+      "f4Title": "Asistență Premium 24/7",
+      "f4Desc": "Echipa noastră dedicată este întotdeauna aici pentru a vă ajuta să obțineți cea mai bună experiență."
+    },
+    "pricing": {
+      "title": "Planuri de divertisment premium",
+      "subtitle": "Alege planul perfect pentru nevoile tale de streaming.",
+      "popular": "Cele mai populare",
+      "monthly": "luna",
+      "months": "Luni",
+      "year": "Anul",
+      "featuresList": {
+        "channels": "Peste 20.000 de canale live",
+        "vod": "Peste 60.000 de VOD și serii",
+        "quality": "4K / Ultra HD / HD",
+        "devices": "Toate dispozitivele acceptate",
+        "catchup": "7 zile de recuperare",
+        "support": "Suport tehnic 24/7"
+      },
+      "plans": {
+        "basic": {
+          "name": "Abonament standard",
+          "price": "14.99",
+          "duration": "1 lună"
+        },
+        "pro": {
+          "name": "Premium Elite",
+          "price": "44,99",
+          "duration": "6 luni"
+        },
+        "ultra": {
+          "name": "Ultima viață",
+          "price": "74,99",
+          "duration": "12 luni"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Ce spun utilizatorii noștri",
+      "subtitle": "Alăturați-vă miilor de telespectatori mulțumiți din Europa care au ales Premium TV.",
+      "items": {
+        "t1": {
+          "name": "Marcus Schmidt",
+          "location": "Berlin, Germania",
+          "text": "Calitatea 4K este de fapt reală. Am încercat multe servicii, dar acesta este cel mai stabil și de cea mai înaltă calitate pe care l-am găsit."
+        },
+        "t2": {
+          "name": "Antonio Rossi",
+          "location": "Roma, Italia",
+          "text": "Cea mai bună acoperire sportivă vreodată. Liga Campionilor și F1 în calitate perfectă, fără tamponare. Foarte recomandat!"
+        },
+        "t3": {
+          "name": "Elena Dubois",
+          "location": "Paris, Franța",
+          "text": "Configurarea a fost atât de ușoară pe Smart TV-ul meu. Asistența pentru clienți m-a ajutat în câteva minute când am avut o întrebare despre lista de canale."
+        }
+      }
+    },
+    "faq": {
+      "title": "Întrebări frecvente",
+      "subtitle": "Tot ce trebuie să știți despre serviciile noastre IPTV premium.",
+      "items": {
+        "q1": {
+          "q": "Ce dispozitive sunt acceptate?",
+          "a": "Acceptăm toate dispozitivele: televizoare inteligente (Samsung, LG, Sony), casete Android, Firestick, Apple TV, telefoane inteligente și casete Mag."
+        },
+        "q2": {
+          "q": "Cât durează activarea?",
+          "a": "Majoritatea conturilor sunt activate în 15-30 de minute de la plată. Veți primi un e-mail cu toate instrucțiunile."
+        },
+        "q3": {
+          "q": "Am nevoie de un VPN?",
+          "a": "Nu, un VPN nu este necesar deoarece folosim tehnologie avansată anti-îngheț. Cu toate acestea, puteți folosi unul dacă doriți."
+        },
+        "q4": {
+          "q": "Îl pot folosi pe mai multe dispozitive?",
+          "a": "Planurile noastre standard acceptă un dispozitiv la un moment dat. Contactați-ne pentru pachete cu mai multe camere dacă aveți nevoie de fluxuri simultane."
+        }
+      }
+    }
+  },
+  "Reseller": {
+    "title": "Deveniți un Reseller",
+    "subtitle": "Alăturați-vă rețelei noastre și începeți astăzi propria afacere IPTV cu infrastructura noastră premium.",
+    "benefits": {
+      "title": "De ce să colaborezi cu noi?",
+      "b1Title": "Marje de profit ridicate",
+      "b1Desc": "Obțineți credite la prețuri cu ridicata și vindeți la prețurile proprii.",
+      "b2Title": "Panel profesional",
+      "b2Desc": "Gestionați-vă clienții, liniile și testele cu tabloul nostru de bord pentru reselleri ușor de utilizat.",
+      "b3Title": "Stabilitate de top",
+      "b3Desc": "Serverele noastre sunt optimizate pentru trafic de mare volum, cu o garanție de funcționare de 99,9%.",
+      "b4Title": "Asistență dedicată 24/7",
+      "b4Desc": "Revânzătorii beneficiază de asistență prioritară pentru a se asigura că afacerea lor funcționează fără probleme."
+    },
+    "cta": "Contact pentru Panoul Reseller",
+    "panelFeatures": [
+      "Creați teste gratuite",
+      "Gestionați mai multe abonați",
+      "Opțiune DNS personalizată",
+      "Suport pentru toate dispozitivele"
+    ]
+  },
+  "WhatsApp": {
+    "phone": "+44700000000",
+    "orderMessage": "Bună, aș dori să comand planul {plan} de pe site-ul dvs. web.",
+    "resellerMessage": "Bună, sunt interesat să devin reseller. Vă rugăm să furnizați mai multe informații despre panou și prețuri.",
+    "trialMessage": "Bună, aș dori să solicit o perioadă de încercare gratuită de 24 de ore."
+  }
+}

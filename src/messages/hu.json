@@ -1,0 +1,208 @@
+{
+  "Navbar": {
+    "home": "Otthon",
+    "channels": "Csatornák",
+    "fifa": "Világbajnokság",
+    "pricing": "Árképzés",
+    "about": "Körülbelül",
+    "blog": "Blog",
+    "faq": "GYIK",
+    "contact": "Kapcsolatfelvétel",
+    "reseller": "Viszonteladó",
+    "cta": "Kezdje el",
+    "plans": "Tervek"
+  },
+  "Channels": {
+    "title": "Prémium csatorna kiválasztása",
+    "subtitle": "Fedezze fel hatalmas, több mint 20 000 élő csatornát tartalmazó könyvtárunkat minden kategóriában.",
+    "searchPlaceholder": "Csatornák vagy kategóriák keresése...",
+    "categories": {
+      "all": "Minden csatorna",
+      "sports": "Sportok és események",
+      "movies": "Filmek és mozi",
+      "news": "Nemzetközi hírek",
+      "kids": "Gyerekek és család",
+      "documentary": "Dokumentumfilm",
+      "music": "Zene és rádió"
+    },
+    "features": {
+      "f1": "Ultra HD Streaming",
+      "f2": "Nincs pufferelés",
+      "f3": "EPG tartalmazza",
+      "f4": "7 napos felzárkózás"
+    }
+  },
+  "About": {
+    "title": "A televízió újradefiniálása",
+    "subtitle": "2018 óta prémium szórakoztatást biztosít a háztartások számára Európa-szerte.",
+    "missionTitle": "Küldetésünk",
+    "missionDesc": "A legstabilabb és legjobb minőségű IPTV-élmény biztosítása a hagyományos kábel magas költségei nélkül.",
+    "stats": {
+      "users": "100 000+ aktív felhasználó",
+      "uptime": "99,99% szerver üzemidő",
+      "support": "Azonnali támogatás"
+    }
+  },
+  "Contact": {
+    "title": "Vegye fel a kapcsolatot",
+    "subtitle": "Kérdései vannak? Csapatunk a nap 24 órájában rendelkezésre áll, hogy segítsen Önnek.",
+    "form": {
+      "name": "Teljes név",
+      "email": "E-mail cím",
+      "subject": "Tárgy",
+      "message": "Az Ön üzenete",
+      "submit": "Üzenet küldése",
+      "success": "Üzenet sikeresen elküldve! Hamarosan jelentkezünk."
+    },
+    "info": {
+      "email": "support@premiumtv.services",
+      "whatsapp": "+44 700 000 000",
+      "hours": "24 órás technikai támogatás"
+    }
+  },
+  "Fifa": {
+    "title": "FIFA világbajnokság és élő sportesemények",
+    "subtitle": "Nézze meg a világbajnokság minden meccsét lenyűgöző 4K Ultra HD minőségben. Soha ne hagyjon ki célt prémium sportközvetítésünkkel.",
+    "matchTitle": "Élő mérkőzések menetrendje",
+    "qualityTitle": "Tapasztalja meg a stadion atmoszféráját",
+    "qualityDesc": "Dedikált sportszervereink zéró késleltetésű streamelést biztosítanak olyan csúcsesemények idején, mint a FIFA világbajnokság és a Bajnokok Ligája.",
+    "cta": "Szerezzen Sportbérletet most"
+  },
+  "Footer": {
+    "tagline": "A televízió újragondolva egész Európára. Prémium IPTV szolgáltatások több mint 20 000 csatornával.",
+    "quickLinks": "Gyors linkek",
+    "countries": "Országok",
+    "support": "Támogatás",
+    "copyright": "© 2026 PremiumTVServices. Minden jog fenntartva."
+  },
+  "Home": {
+    "hero": {
+      "headline": "A TELEVÍZIÓ EGÉSZ EURÓPA SZÁMÁRA ÚJRA ÁLLAPOTTA",
+      "subheadline": "Tapasztalja meg a tökéletes szórakozást a 4K Ultra HD streaming, a több mint 20 000 élő csatorna és a teljes európai lefedettség révén.",
+      "ctaPrimary": "Indítsa el az ingyenes próbaverziót",
+      "ctaSecondary": "Csatornák böngészése"
+    },
+    "stats": {
+      "channels": "Több mint 20 000 élő csatorna",
+      "quality": "4K Ultra HD",
+      "countries": "50+ ország",
+      "uptime": "99,9%-os üzemidő"
+    },
+    "features": {
+      "title": "Miért válassza a prémium TV-t?",
+      "subtitle": "Páratlan minőség, megbízhatóság és szórakozás a modern nézők számára.",
+      "f1Title": "Több mint 20 000 élő csatorna",
+      "f1Desc": "Hozzáférés a csatornákhoz a világ minden tájáról, beleértve a sportokat, filmeket és híreket.",
+      "f2Title": "4K Ultra HD minőség",
+      "f2Desc": "Tapasztalja meg a kristálytiszta adatfolyamot pufferelés nélkül minden eszközön.",
+      "f3Title": "7 napos felzárkózás",
+      "f3Desc": "Soha ne hagyjon ki egy előadást átfogó többnapos felzárkóztató szolgáltatásunkkal.",
+      "f4Title": "24 órás prémium támogatás",
+      "f4Desc": "Elkötelezett csapatunk mindig készen áll, hogy segítsen Önnek a legjobb élmény elérésében."
+    },
+    "pricing": {
+      "title": "Prémium szórakozási tervek",
+      "subtitle": "Válassza ki a tökéletes tervet streamelési igényeinek megfelelően.",
+      "popular": "Legnépszerűbb",
+      "monthly": "hónap",
+      "months": "Hónapok",
+      "year": "év",
+      "featuresList": {
+        "channels": "Több mint 20 000 élő csatorna",
+        "vod": "60 000+ VOD és sorozat",
+        "quality": "4K / Ultra HD / HD",
+        "devices": "Minden eszköz támogatott",
+        "catchup": "7 nap felzárkózás",
+        "support": "24 órás technikai támogatás"
+      },
+      "plans": {
+        "basic": {
+          "name": "Standard Pass",
+          "price": "14.99",
+          "duration": "1 hónap"
+        },
+        "pro": {
+          "name": "Prémium Elite",
+          "price": "44,99",
+          "duration": "6 hónap"
+        },
+        "ultra": {
+          "name": "Végső élettartam",
+          "price": "74,99",
+          "duration": "12 hónap"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Felhasználóink véleménye",
+      "subtitle": "Csatlakozzon Európa-szerte több ezer elégedett nézőhöz, akik a Premium TV-t választották.",
+      "items": {
+        "t1": {
+          "name": "Marcus Schmidt",
+          "location": "Berlin, Németország",
+          "text": "A 4K minőség valóban igazi. Sok szolgáltatást kipróbáltam, de ez a legstabilabb és legjobb minőségű, amit találtam."
+        },
+        "t2": {
+          "name": "Antonio Rossi",
+          "location": "Róma, Olaszország",
+          "text": "A valaha volt legjobb sportközvetítés. Bajnokok Ligája és F1 tökéletes minőségben, pufferelés nélkül. Erősen ajánlott!"
+        },
+        "t3": {
+          "name": "Elena Dubois",
+          "location": "Párizs, Franciaország",
+          "text": "A beállítás nagyon egyszerű volt a Smart TV-n. Az ügyfélszolgálat perceken belül segített, amikor kérdésem volt a csatornalistával kapcsolatban."
+        }
+      }
+    },
+    "faq": {
+      "title": "Gyakran Ismételt Kérdések",
+      "subtitle": "Minden, amit a prémium IPTV szolgáltatásainkról tudni kell.",
+      "items": {
+        "q1": {
+          "q": "Mely eszközök támogatottak?",
+          "a": "Minden eszközt támogatunk: Smart TV-k (Samsung, LG, Sony), Android-boxok, Firestick, Apple TV, okostelefonok és Mag-boxok."
+        },
+        "q2": {
+          "q": "Mennyi ideig tart az aktiválás?",
+          "a": "A legtöbb fiók a fizetés után 15-30 percen belül aktiválódik. Kapni fog egy e-mailt az összes utasítással."
+        },
+        "q3": {
+          "q": "Szükségem van VPN-re?",
+          "a": "Nem, nincs szükség VPN-re, mivel fejlett fagyálló technológiát használunk. Használhat azonban egyet, ha úgy tetszik."
+        },
+        "q4": {
+          "q": "Használhatom több eszközön is?",
+          "a": "Normál csomagjaink egyszerre csak egy eszközt támogatnak. Vegye fel velünk a kapcsolatot többszobás csomagokért, ha egyidejű streamekre van szüksége."
+        }
+      }
+    }
+  },
+  "Reseller": {
+    "title": "Legyen viszonteladó",
+    "subtitle": "Csatlakozzon hálózatunkhoz, és indítsa el saját IPTV vállalkozását még ma prémium infrastruktúránkkal.",
+    "benefits": {
+      "title": "Miért partner velünk?",
+      "b1Title": "Magas haszonkulcsok",
+      "b1Desc": "Szerezzen hiteleket nagykereskedelmi áron, és adjon el saját árfolyamon.",
+      "b2Title": "Szakmai panel",
+      "b2Desc": "Kezelje ügyfeleit, vonalait és próbaidőszakait a könnyen használható viszonteladói irányítópultonkkal.",
+      "b3Title": "Legfelső szintű stabilitás",
+      "b3Desc": "Szervereinket nagy volumenű forgalomra optimalizáltuk, 99,9%-os rendelkezésre állási garanciával.",
+      "b4Title": "24 órás dedikált támogatás",
+      "b4Desc": "A viszonteladók kiemelt támogatást kapnak, hogy biztosítsák vállalkozásuk zökkenőmentes működését."
+    },
+    "cta": "Kapcsolatfelvétel a viszonteladói panellel",
+    "panelFeatures": [
+      "Ingyenes próbaverzió létrehozása",
+      "Több feliratkozás kezelése",
+      "Egyéni DNS opció",
+      "Minden eszköz támogatása"
+    ]
+  },
+  "WhatsApp": {
+    "phone": "+44700000000",
+    "orderMessage": "Szia! Szeretném megrendelni a {plan} csomagot a webhelyéről.",
+    "resellerMessage": "Sziasztok! Viszonteladó szeretnék lenni. Kérjük, adjon meg további információkat a panelről és az árakról.",
+    "trialMessage": "Szia! 24 órás ingyenes próbaverziót szeretnék kérni."
+  }
+}

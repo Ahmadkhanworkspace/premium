@@ -1,0 +1,208 @@
+{
+  "Navbar": {
+    "home": "Hjem",
+    "channels": "Kanaler",
+    "fifa": "VM",
+    "pricing": "Prissætning",
+    "about": "Om",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "reseller": "Forhandler",
+    "cta": "Kom i gang",
+    "plans": "Planer"
+  },
+  "Channels": {
+    "title": "Premium kanalvalg",
+    "subtitle": "Udforsk vores store bibliotek med mere end 20.000 livekanaler på tværs af alle kategorier.",
+    "searchPlaceholder": "Søg efter kanaler eller kategorier...",
+    "categories": {
+      "all": "Alle kanaler",
+      "sports": "Sport & Events",
+      "movies": "Film og biograf",
+      "news": "Internationale nyheder",
+      "kids": "Børn & Familie",
+      "documentary": "Dokumentar",
+      "music": "Musik & Radio"
+    },
+    "features": {
+      "f1": "Ultra HD streaming",
+      "f2": "Ingen buffering",
+      "f3": "EPG inkluderet",
+      "f4": "7-dages indhentning"
+    }
+  },
+  "About": {
+    "title": "Omdefinerer fjernsyn",
+    "subtitle": "Leveret premium underholdning til husholdninger i hele Europa siden 2018.",
+    "missionTitle": "Vores Mission",
+    "missionDesc": "At levere den mest stabile og højeste kvalitet IPTV-oplevelse uden de høje omkostninger ved traditionelt kabel.",
+    "stats": {
+      "users": "100.000+ aktive brugere",
+      "uptime": "99,99 % serveroppetid",
+      "support": "Øjeblikkelig support"
+    }
+  },
+  "Contact": {
+    "title": "Tag kontakt",
+    "subtitle": "Har du spørgsmål? Vores team står til rådighed 24/7 for at hjælpe dig.",
+    "form": {
+      "name": "Fuldt navn",
+      "email": "Email adresse",
+      "subject": "Emne",
+      "message": "Din besked",
+      "submit": "Send besked",
+      "success": "Beskeden blev sendt! Vi vender snart tilbage til dig."
+    },
+    "info": {
+      "email": "support@premiumtv.services",
+      "whatsapp": "+44 700 000 000",
+      "hours": "24/7 teknisk support"
+    }
+  },
+  "Fifa": {
+    "title": "FIFA World Cup & Live Sport",
+    "subtitle": "Se hver kamp i VM i fantastisk 4K Ultra HD. Gå aldrig glip af et mål med vores premium sportsdækning.",
+    "matchTitle": "Tidsplan for live kampe",
+    "qualityTitle": "Oplev Stadium Atmosphere",
+    "qualityDesc": "Vores dedikerede sportsservere sikrer nul-lag-streaming under topbegivenheder som FIFA World Cup og Champions League.",
+    "cta": "Få Sports Pass nu"
+  },
+  "Footer": {
+    "tagline": "Fjernsynet er genskabt for hele Europa. Premium IPTV-tjenester med 20.000+ kanaler.",
+    "quickLinks": "Hurtige links",
+    "countries": "lande",
+    "support": "Support",
+    "copyright": "© 2026 PremiumTVServices. Alle rettigheder forbeholdes."
+  },
+  "Home": {
+    "hero": {
+      "headline": "Fjernsynet gentog sig for HELE EUROPA",
+      "subheadline": "Oplev den ultimative underholdning med 4K Ultra HD-streaming, 20.000+ livekanaler og komplet europæisk dækning.",
+      "ctaPrimary": "Start gratis prøveperiode",
+      "ctaSecondary": "Gennemse kanaler"
+    },
+    "stats": {
+      "channels": "20.000+ livekanaler",
+      "quality": "4K Ultra HD",
+      "countries": "50+ lande",
+      "uptime": "99,9 % oppetid"
+    },
+    "features": {
+      "title": "Hvorfor vælge Premium TV?",
+      "subtitle": "Uovertruffen kvalitet, pålidelighed og underholdning for den moderne seer.",
+      "f1Title": "20.000+ livekanaler",
+      "f1Desc": "Få adgang til kanaler fra hele verden, herunder sport, film og nyheder.",
+      "f2Title": "4K Ultra HD-kvalitet",
+      "f2Desc": "Oplev krystalklar streaming med nul buffering på alle enheder.",
+      "f3Title": "7-dages indhentning",
+      "f3Desc": "Gå aldrig glip af et show med vores omfattende multi-dages catch-up service.",
+      "f4Title": "24/7 Premium Support",
+      "f4Desc": "Vores dedikerede team er altid her for at hjælpe dig med at få den bedste oplevelse."
+    },
+    "pricing": {
+      "title": "Premium underholdningsplaner",
+      "subtitle": "Vælg den perfekte plan til dine streamingbehov.",
+      "popular": "Mest populær",
+      "monthly": "Måned",
+      "months": "måneder",
+      "year": "år",
+      "featuresList": {
+        "channels": "20.000+ livekanaler",
+        "vod": "60.000+ VOD'er og serier",
+        "quality": "4K / Ultra HD / HD",
+        "devices": "Alle enheder understøttes",
+        "catchup": "7 dage indhente",
+        "support": "24/7 teknisk support"
+      },
+      "plans": {
+        "basic": {
+          "name": "Standardpas",
+          "price": "14,99",
+          "duration": "1 måned"
+        },
+        "pro": {
+          "name": "Premium Elite",
+          "price": "44,99",
+          "duration": "6 måneder"
+        },
+        "ultra": {
+          "name": "Ultimativ levetid",
+          "price": "74,99",
+          "duration": "12 måneder"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Hvad vores brugere siger",
+      "subtitle": "Slut dig til tusindvis af tilfredse seere i hele Europa, der har valgt Premium TV.",
+      "items": {
+        "t1": {
+          "name": "Marcus Schmidt",
+          "location": "Berlin, Tyskland",
+          "text": "4K-kvaliteten er faktisk ægte. Jeg har prøvet mange tjenester, men dette er den mest stabile og højeste kvalitet, jeg har fundet."
+        },
+        "t2": {
+          "name": "Antonio Rossi",
+          "location": "Rom, Italien",
+          "text": "Bedste sportsdækning nogensinde. Champions League og F1 i perfekt kvalitet uden buffering. Kan varmt anbefales!"
+        },
+        "t3": {
+          "name": "Elena Dubois",
+          "location": "Paris, Frankrig",
+          "text": "Opsætningen var så let på mit Smart TV. Kundesupport hjalp mig inden for få minutter, da jeg havde et spørgsmål om kanallisten."
+        }
+      }
+    },
+    "faq": {
+      "title": "Ofte stillede spørgsmål",
+      "subtitle": "Alt hvad du behøver at vide om vores premium IPTV-tjenester.",
+      "items": {
+        "q1": {
+          "q": "Hvilke enheder understøttes?",
+          "a": "Vi understøtter alle enheder: Smart TV (Samsung, LG, Sony), Android-bokse, Firestick, Apple TV, Smartphones og Mag-bokse."
+        },
+        "q2": {
+          "q": "Hvor lang tid tager det at aktivere?",
+          "a": "De fleste konti aktiveres inden for 15-30 minutter efter betaling. Du vil modtage en e-mail med alle instruktionerne."
+        },
+        "q3": {
+          "q": "Har jeg brug for en VPN?",
+          "a": "Nej, en VPN er ikke påkrævet, da vi bruger avanceret anti-frost teknologi. Du kan dog bruge en, hvis du foretrækker det."
+        },
+        "q4": {
+          "q": "Kan jeg bruge det på flere enheder?",
+          "a": "Vores standardplaner understøtter én enhed ad gangen. Kontakt os for multirumspakker, hvis du har brug for samtidige streams."
+        }
+      }
+    }
+  },
+  "Reseller": {
+    "title": "Bliv forhandler",
+    "subtitle": "Tilmeld dig vores netværk og start din egen IPTV-virksomhed i dag med vores førsteklasses infrastruktur.",
+    "benefits": {
+      "title": "Hvorfor samarbejde med os?",
+      "b1Title": "Høje overskudsmargener",
+      "b1Desc": "Få kreditter til engrospriser og sælg til dine egne priser.",
+      "b2Title": "Professionelt panel",
+      "b2Desc": "Administrer dine kunder, linjer og forsøg med vores brugervenlige forhandler-dashboard.",
+      "b3Title": "Top Tier Stabilitet",
+      "b3Desc": "Vores servere er optimeret til højvolumen trafik med 99,9 % oppetidsgaranti.",
+      "b4Title": "24/7 dedikeret support",
+      "b4Desc": "Forhandlere får prioriteret support for at sikre, at deres forretning kører problemfrit."
+    },
+    "cta": "Kontakt for forhandlerpanel",
+    "panelFeatures": [
+      "Opret gratis prøveversioner",
+      "Administrer flere subs",
+      "Brugerdefineret DNS-mulighed",
+      "Understøttelse af alle enheder"
+    ]
+  },
+  "WhatsApp": {
+    "phone": "+44700000000",
+    "orderMessage": "Hej, jeg vil gerne bestille {plan}-planen fra din hjemmeside.",
+    "resellerMessage": "Hej, jeg er interesseret i at blive forhandler. Angiv venligst flere oplysninger om panelet og priser.",
+    "trialMessage": "Hej, jeg vil gerne anmode om en 24-timers gratis prøveperiode."
+  }
+}

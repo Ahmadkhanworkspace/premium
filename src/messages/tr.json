@@ -1,0 +1,208 @@
+{
+  "Navbar": {
+    "home": "Ana Sayfa",
+    "channels": "Kanallar",
+    "fifa": "Dünya Kupası",
+    "pricing": "Fiyatlandırma",
+    "about": "Hakkında",
+    "blog": "Blog",
+    "faq": "SSS",
+    "contact": "İletişim",
+    "reseller": "Bayi",
+    "cta": "Başlayın",
+    "plans": "Planlar"
+  },
+  "Channels": {
+    "title": "Premium Kanal Seçimi",
+    "subtitle": "Tüm kategorilerde 20.000'den fazla canlı kanaldan oluşan geniş kitaplığımızı keşfedin.",
+    "searchPlaceholder": "Kanalları veya kategorileri arayın...",
+    "categories": {
+      "all": "Tüm Kanallar",
+      "sports": "Spor ve Etkinlikler",
+      "movies": "Filmler ve Sinema",
+      "news": "Uluslararası Haberler",
+      "kids": "Çocuklar ve Aile",
+      "documentary": "Belgesel",
+      "music": "Müzik ve Radyo"
+    },
+    "features": {
+      "f1": "Ultra HD Akış",
+      "f2": "Arabelleğe Alma Yok",
+      "f3": "EPG Dahil",
+      "f4": "7 Günlük Yakalama"
+    }
+  },
+  "About": {
+    "title": "Televizyonu Yeniden Tanımlamak",
+    "subtitle": "2018'den bu yana Avrupa çapındaki hanelere birinci sınıf eğlence sağlıyoruz.",
+    "missionTitle": "Misyonumuz",
+    "missionDesc": "Geleneksel kablonun yüksek maliyetleri olmadan, en istikrarlı ve en yüksek kalitede IPTV deneyimini sunmak.",
+    "stats": {
+      "users": "100k+ Aktif Kullanıcı",
+      "uptime": "%99,99 Sunucu Çalışma Süresi",
+      "support": "Anında Destek"
+    }
+  },
+  "Contact": {
+    "title": "İletişime Geçin",
+    "subtitle": "Sorularınız mı var? Ekibimiz size yardımcı olmak için 7/24 hizmetinizdedir.",
+    "form": {
+      "name": "Tam Ad",
+      "email": "E-posta Adresi",
+      "subject": "Konu",
+      "message": "Mesajınız",
+      "submit": "Mesaj Gönder",
+      "success": "Mesaj başarıyla gönderildi! Kısa süre içinde size geri döneceğiz."
+    },
+    "info": {
+      "email": "support@premiumtv.services",
+      "whatsapp": "+44 700 000 000",
+      "hours": "7/24 Teknik Destek"
+    }
+  },
+  "Fifa": {
+    "title": "FIFA Dünya Kupası ve Canlı Spor",
+    "subtitle": "Dünya Kupası'nın her maçını büyüleyici 4K Ultra HD kalitesinde izleyin. Birinci sınıf spor kapsamımızla hiçbir hedefi kaçırmayın.",
+    "matchTitle": "Canlı Maç Programı",
+    "qualityTitle": "Stadyum Atmosferini Deneyimleyin",
+    "qualityDesc": "Özel spor sunucularımız, FIFA Dünya Kupası ve Şampiyonlar Ligi gibi yoğun etkinlikler sırasında sıfır gecikmeli yayın sağlar.",
+    "cta": "Sports Pass'ı Hemen Alın"
+  },
+  "Footer": {
+    "tagline": "Televizyon tüm Avrupa için yeniden tasarlandı. 20.000'den fazla kanalla birinci sınıf IPTV hizmetleri.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "countries": "Ülkeler",
+    "support": "Destek",
+    "copyright": "© 2026 PremiumTVServices. Her hakkı saklıdır."
+  },
+  "Home": {
+    "hero": {
+      "headline": "TELEVİZYON TÜM AVRUPA İÇİN YENİDEN TASARLANDI",
+      "subheadline": "4K Ultra HD yayın, 20.000'den fazla canlı kanal ve Avrupa'nın tamamını kapsama alanıyla eğlencenin en üst düzeyini deneyimleyin.",
+      "ctaPrimary": "Ücretsiz Denemeyi Başlat",
+      "ctaSecondary": "Kanallara Göz Atın"
+    },
+    "stats": {
+      "channels": "20.000+ Canlı Kanal",
+      "quality": "4K Ultra HD",
+      "countries": "50+ Ülke",
+      "uptime": "%99,9 Çalışma Süresi"
+    },
+    "features": {
+      "title": "Neden Premium TV'yi Seçmelisiniz?",
+      "subtitle": "Modern izleyici için eşsiz kalite, güvenilirlik ve eğlence.",
+      "f1Title": "20.000+ Canlı Kanal",
+      "f1Desc": "Spor, film ve haberler de dahil olmak üzere dünyanın dört bir yanından kanallara erişin.",
+      "f2Title": "4K Ultra HD Kalitesi",
+      "f2Desc": "Tüm cihazlarda sıfır ara belleğe alma ile kristal netliğinde akış deneyimini yaşayın.",
+      "f3Title": "7 Günlük Yetişme",
+      "f3Desc": "Birden fazla gün süren kapsamlı yakalama hizmetimizle hiçbir gösteriyi kaçırmayın.",
+      "f4Title": "7/24 Premium Destek",
+      "f4Desc": "Özel ekibimiz en iyi deneyimi yaşamanıza yardımcı olmak için her zaman burada."
+    },
+    "pricing": {
+      "title": "Premium Eğlence Planları",
+      "subtitle": "Yayın ihtiyaçlarınız için mükemmel planı seçin.",
+      "popular": "En Popüler",
+      "monthly": "Ay",
+      "months": "Aylar",
+      "year": "Yıl",
+      "featuresList": {
+        "channels": "20.000+ Canlı Kanal",
+        "vod": "60.000+ VOD ve Seri",
+        "quality": "4K / Ultra HD / HD",
+        "devices": "Desteklenen Tüm Cihazlar",
+        "catchup": "7 Gün Yetişme",
+        "support": "7/24 Teknik Destek"
+      },
+      "plans": {
+        "basic": {
+          "name": "Standart Geçiş",
+          "price": "14.99",
+          "duration": "1 Ay"
+        },
+        "pro": {
+          "name": "Premium Elit",
+          "price": "44,99",
+          "duration": "6 Ay"
+        },
+        "ultra": {
+          "name": "Nihai Ömür",
+          "price": "74.99",
+          "duration": "12 Ay"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Kullanıcılarımız Ne Diyor?",
+      "subtitle": "Avrupa çapında Premium TV'yi seçen binlerce memnun izleyiciye katılın.",
+      "items": {
+        "t1": {
+          "name": "Marcus Schmidt",
+          "location": "Berlin, Almanya",
+          "text": "4K kalitesi aslında gerçektir. Birçok hizmeti denedim ama bulduğum en istikrarlı ve en yüksek kalite bu."
+        },
+        "t2": {
+          "name": "Antonio Rossi",
+          "location": "Roma, İtalya",
+          "text": "Şimdiye kadarki en iyi spor yayını. Şampiyonlar Ligi ve F1, ara belleğe alma olmadan mükemmel kalitede. Şiddetle tavsiye edilir!"
+        },
+        "t3": {
+          "name": "Elena Dubois",
+          "location": "Paris, Fransa",
+          "text": "Smart TV'mde kurulum çok kolaydı. Kanal listesiyle ilgili bir sorum olduğunda müşteri desteği birkaç dakika içinde bana yardımcı oldu."
+        }
+      }
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "subtitle": "Premium IPTV hizmetlerimiz hakkında bilmeniz gereken her şey.",
+      "items": {
+        "q1": {
+          "q": "Hangi cihazlar destekleniyor?",
+          "a": "Tüm cihazları destekliyoruz: Akıllı TV'ler (Samsung, LG, Sony), Android kutuları, Firestick, Apple TV, Akıllı Telefonlar ve Mag kutuları."
+        },
+        "q2": {
+          "q": "Etkinleştirilmesi ne kadar sürer?",
+          "a": "Çoğu hesap, ödeme yapıldıktan sonra 15-30 dakika içinde etkinleştirilir. Tüm talimatları içeren bir e-posta alacaksınız."
+        },
+        "q3": {
+          "q": "Bir VPN'e ihtiyacım var mı?",
+          "a": "Hayır, gelişmiş antifriz teknolojisi kullandığımız için VPN'e gerek yoktur. Ancak isterseniz birini kullanabilirsiniz."
+        },
+        "q4": {
+          "q": "Birden fazla cihazda kullanabilir miyim?",
+          "a": "Standart planlarımız aynı anda tek bir cihazı destekler. Eş zamanlı yayınlara ihtiyacınız varsa çok odalı paketler için bizimle iletişime geçin."
+        }
+      }
+    }
+  },
+  "Reseller": {
+    "title": "Bayi Olun",
+    "subtitle": "Ağımıza katılın ve premium altyapımızla bugün kendi IPTV işinizi başlatın.",
+    "benefits": {
+      "title": "Neden Bizimle Ortak Olmalısınız?",
+      "b1Title": "Yüksek Kâr Marjları",
+      "b1Desc": "Toptan fiyatlarla kredi alın ve kendi fiyatlarınızdan satış yapın.",
+      "b2Title": "Profesyonel Panel",
+      "b2Desc": "Kullanımı kolay bayi kontrol panelimiz ile müşterilerinizi, hatlarınızı ve denemelerinizi yönetin.",
+      "b3Title": "Üst Seviye Kararlılık",
+      "b3Desc": "Sunucularımız %99,9 kesintisiz çalışma garantisiyle yüksek hacimli trafik için optimize edilmiştir.",
+      "b4Title": "7/24 Özel Destek",
+      "b4Desc": "Bayiler, işlerinin sorunsuz ilerlemesini sağlamak için öncelikli destek alır."
+    },
+    "cta": "Bayi Paneli için İletişim",
+    "panelFeatures": [
+      "Ücretsiz Denemeler Oluşturun",
+      "Birden Çok Aboneyi Yönetin",
+      "Özel DNS Seçeneği",
+      "Tüm Cihaz Desteği"
+    ]
+  },
+  "WhatsApp": {
+    "phone": "+44700000000",
+    "orderMessage": "Merhaba, web sitenizden {plan} planını sipariş etmek istiyorum.",
+    "resellerMessage": "Merhaba, bayi olmakla ilgileniyorum. Lütfen panel ve fiyatlandırma hakkında daha fazla bilgi verin.",
+    "trialMessage": "Merhaba, 24 saatlik ücretsiz deneme talebinde bulunmak istiyorum."
+  }
+}

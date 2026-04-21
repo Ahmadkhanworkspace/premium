@@ -1,0 +1,208 @@
+{
+  "Navbar": {
+    "home": "Dom",
+    "channels": "Kanały",
+    "fifa": "Puchar Świata",
+    "pricing": "Ceny",
+    "about": "O",
+    "blog": "Bloga",
+    "faq": "Często zadawane pytania",
+    "contact": "Kontakt",
+    "reseller": "Sprzedawca",
+    "cta": "Rozpocznij",
+    "plans": "Plany"
+  },
+  "Channels": {
+    "title": "Wybór kanału premium",
+    "subtitle": "Poznaj naszą obszerną bibliotekę ponad 20 000 kanałów na żywo ze wszystkich kategorii.",
+    "searchPlaceholder": "Wyszukaj kanały lub kategorie...",
+    "categories": {
+      "all": "Wszystkie kanały",
+      "sports": "Sport i wydarzenia",
+      "movies": "Filmy i kino",
+      "news": "Wiadomości międzynarodowe",
+      "kids": "Dzieci i rodzina",
+      "documentary": "Dokumentalny",
+      "music": "Muzyka i radio"
+    },
+    "features": {
+      "f1": "Transmisja strumieniowa Ultra HD",
+      "f2": "Brak buforowania",
+      "f3": "EPG w zestawie",
+      "f4": "7-dniowe nadrabianie zaległości"
+    }
+  },
+  "About": {
+    "title": "Nowa definicja telewizji",
+    "subtitle": "Dostarcza rozrywkę premium gospodarstwom domowym w całej Europie od 2018 roku.",
+    "missionTitle": "Nasza misja",
+    "missionDesc": "Aby zapewnić najbardziej stabilne i najwyższej jakości doświadczenia IPTV bez wysokich kosztów tradycyjnego kabla.",
+    "stats": {
+      "users": "Ponad 100 tys. aktywnych użytkowników",
+      "uptime": "Czas pracy serwera na poziomie 99,99%.",
+      "support": "Natychmiastowe wsparcie"
+    }
+  },
+  "Contact": {
+    "title": "Skontaktuj się",
+    "subtitle": "Masz pytania? Nasz zespół jest dostępny 24 godziny na dobę, 7 dni w tygodniu, aby Ci pomóc.",
+    "form": {
+      "name": "Pełne imię i nazwisko",
+      "email": "Adres e-mail",
+      "subject": "Temat",
+      "message": "Twoja wiadomość",
+      "submit": "Wyślij wiadomość",
+      "success": "Wiadomość wysłana pomyślnie! Wkrótce skontaktujemy się z Tobą."
+    },
+    "info": {
+      "email": "wsparcie@premiumtv.services",
+      "whatsapp": "+44 700 000 000",
+      "hours": "Całodobowe wsparcie techniczne"
+    }
+  },
+  "Fifa": {
+    "title": "Puchar Świata FIFA i sport na żywo",
+    "subtitle": "Oglądaj każdy mecz Pucharu Świata w oszałamiającej rozdzielczości 4K Ultra HD. Nigdy nie przegapisz żadnego gola dzięki naszym relacjom sportowym premium.",
+    "matchTitle": "Harmonogram meczów na żywo",
+    "qualityTitle": "Poczuj atmosferę stadionu",
+    "qualityDesc": "Nasze dedykowane serwery sportowe zapewniają transmisję strumieniową bez opóźnień podczas szczytowych wydarzeń, takich jak Mistrzostwa Świata FIFA i Liga Mistrzów.",
+    "cta": "Zdobądź karnet sportowy już teraz"
+  },
+  "Footer": {
+    "tagline": "Telewizja wymyślona na nowo dla całej Europy. Usługi premium IPTV z ponad 20 000 kanałów.",
+    "quickLinks": "Szybkie linki",
+    "countries": "Kraje",
+    "support": "Wsparcie",
+    "copyright": "© 2026 PremiumTVServices. Wszelkie prawa zastrzeżone."
+  },
+  "Home": {
+    "hero": {
+      "headline": "TELEWIZJA NOWA DLA CAŁEJ EUROPY",
+      "subheadline": "Doświadcz najwyższej jakości rozrywki dzięki strumieniowaniu w rozdzielczości 4K Ultra HD, ponad 20 000 kanałów na żywo i pełnemu zasięgowi w Europie.",
+      "ctaPrimary": "Rozpocznij bezpłatny okres próbny",
+      "ctaSecondary": "Przeglądaj kanały"
+    },
+    "stats": {
+      "channels": "Ponad 20 000 kanałów na żywo",
+      "quality": "4K Ultra HD",
+      "countries": "Ponad 50 krajów",
+      "uptime": "Czas sprawności na poziomie 99,9%."
+    },
+    "features": {
+      "title": "Dlaczego warto wybrać telewizję premium?",
+      "subtitle": "Niezrównana jakość, niezawodność i rozrywka dla współczesnego widza.",
+      "f1Title": "Ponad 20 000 kanałów na żywo",
+      "f1Desc": "Uzyskaj dostęp do kanałów z całego świata, w tym sportowych, filmowych i informacyjnych.",
+      "f2Title": "Jakość 4K Ultra HD",
+      "f2Desc": "Doświadcz krystalicznie czystej transmisji strumieniowej z zerowym buforowaniem na wszystkich urządzeniach.",
+      "f3Title": "7-dniowe nadrobienie zaległości",
+      "f3Desc": "Nigdy nie przegap żadnego występu dzięki naszej kompleksowej, wielodniowej usłudze nadrabiania zaległości.",
+      "f4Title": "Całodobowe wsparcie premium",
+      "f4Desc": "Nasz oddany zespół jest zawsze tutaj, aby pomóc Ci uzyskać najlepsze doświadczenia."
+    },
+    "pricing": {
+      "title": "Plany rozrywki premium",
+      "subtitle": "Wybierz plan idealny dla swoich potrzeb związanych z transmisją strumieniową.",
+      "popular": "Najpopularniejsze",
+      "monthly": "Miesiąc",
+      "months": "Miesiące",
+      "year": "Rok",
+      "featuresList": {
+        "channels": "Ponad 20 000 kanałów na żywo",
+        "vod": "Ponad 60 000 VOD i seriali",
+        "quality": "4K / Ultra HD / HD",
+        "devices": "Obsługiwane wszystkie urządzenia",
+        "catchup": "7 dni nadrobienia zaległości",
+        "support": "Całodobowe wsparcie techniczne"
+      },
+      "plans": {
+        "basic": {
+          "name": "Przepustka standardowa",
+          "price": "14,99",
+          "duration": "1 miesiąc"
+        },
+        "pro": {
+          "name": "Elita premium",
+          "price": "44,99",
+          "duration": "6 miesięcy"
+        },
+        "ultra": {
+          "name": "Ostateczna żywotność",
+          "price": "74,99",
+          "duration": "12 miesięcy"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Co mówią nasi użytkownicy",
+      "subtitle": "Dołącz do tysięcy zadowolonych widzów w całej Europie, którzy wybrali Premium TV.",
+      "items": {
+        "t1": {
+          "name": "Marek Schmidt",
+          "location": "Berlinie, Niemcy",
+          "text": "Jakość 4K jest rzeczywiście prawdziwa. Wypróbowałem wiele usług, ale jest to najbardziej stabilna i najwyższa jakość, jaką znalazłem."
+        },
+        "t2": {
+          "name": "Antonio Rossiego",
+          "location": "Rzym, Włochy",
+          "text": "Najlepsza relacja sportowa w historii. Liga Mistrzów i F1 w doskonałej jakości, bez buforowania. Gorąco polecam!"
+        },
+        "t3": {
+          "name": "Elena Dubois",
+          "location": "Paryż, Francja",
+          "text": "Konfiguracja na moim telewizorze Smart TV była niezwykle łatwa. Obsługa klienta pomogła mi w ciągu kilku minut, gdy miałem pytanie dotyczące listy kanałów."
+        }
+      }
+    },
+    "faq": {
+      "title": "Często zadawane pytania",
+      "subtitle": "Wszystko, co musisz wiedzieć o naszych usługach premium IPTV.",
+      "items": {
+        "q1": {
+          "q": "Które urządzenia są obsługiwane?",
+          "a": "Obsługujemy wszystkie urządzenia: telewizory Smart TV (Samsung, LG, Sony), urządzenia z Androidem, Firestick, Apple TV, smartfony i urządzenia Mag."
+        },
+        "q2": {
+          "q": "Ile czasu zajmuje aktywacja?",
+          "a": "Wi��kszość kont jest aktywowana w ciągu 15-30 minut po dokonaniu płatności. Otrzymasz e-mail ze wszystkimi instrukcjami."
+        },
+        "q3": {
+          "q": "Czy potrzebuję VPN?",
+          "a": "Nie, VPN nie jest wymagany, ponieważ używamy zaawansowanej technologii zapobiegającej zamarzaniu. Możesz jednak użyć jednego, jeśli wolisz."
+        },
+        "q4": {
+          "q": "Czy mogę używać go na wielu urządzeniach?",
+          "a": "Nasze standardowe plany obsługują jedno urządzenie na raz. Jeśli potrzebujesz jednoczesnych transmisji, skontaktuj się z nami w sprawie pakietów obejmujących wiele pomieszczeń."
+        }
+      }
+    }
+  },
+  "Reseller": {
+    "title": "Zostań sprzedawcą",
+    "subtitle": "Dołącz do naszej sieci i już dziś rozpocznij własną działalność związaną z IPTV dzięki naszej infrastrukturze premium.",
+    "benefits": {
+      "title": "Dlaczego warto z nami współpracować?",
+      "b1Title": "Wysokie marże zysku",
+      "b1Desc": "Zdobądź kredyty po cenach hurtowych i sprzedawaj po własnych stawkach.",
+      "b2Title": "Profesjonalny panel",
+      "b2Desc": "Zarządzaj swoimi klientami, liniami i okresami próbnymi za pomocą naszego łatwego w obsłudze pulpitu sprzedawcy.",
+      "b3Title": "Stabilność na najwyższym poziomie",
+      "b3Desc": "Nasze serwery są zoptymalizowane pod kątem dużego ruchu z gwarancją dostępności na poziomie 99,9%.",
+      "b4Title": "Dedykowane wsparcie 24/7",
+      "b4Desc": "Sprzedawcy otrzymują priorytetowe wsparcie, aby zapewnić płynne funkcjonowanie ich działalności."
+    },
+    "cta": "Kontakt dla Panelu Resellera",
+    "panelFeatures": [
+      "Utwórz bezpłatne wersje próbne",
+      "Zarządzaj wieloma subskrypcjami",
+      "Niestandardowa opcja DNS",
+      "Obsługa wszystkich urządzeń"
+    ]
+  },
+  "WhatsApp": {
+    "phone": "+44700000000",
+    "orderMessage": "Witam, chciałbym zamówić plan {plan} na Waszej stronie internetowej.",
+    "resellerMessage": "Witam, jestem zainteresowany pracą sprzedawcy. Proszę o więcej informacji na temat panelu i ceny.",
+    "trialMessage": "Witam, chciałbym poprosić o 24-godzinny bezpłatny okres próbny."
+  }
+}

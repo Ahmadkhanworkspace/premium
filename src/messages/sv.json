@@ -1,0 +1,208 @@
+{
+  "Navbar": {
+    "home": "Hem",
+    "channels": "Kanaler",
+    "fifa": "VM",
+    "pricing": "Prissättning",
+    "about": "Om",
+    "blog": "Blogg",
+    "faq": "FAQ",
+    "contact": "Kontakta",
+    "reseller": "Återförsäljare",
+    "cta": "Kom igång",
+    "plans": "Planer"
+  },
+  "Channels": {
+    "title": "Premiumkanalval",
+    "subtitle": "Utforska vårt stora bibliotek med över 20 000 livekanaler i alla kategorier.",
+    "searchPlaceholder": "Sök efter kanaler eller kategorier...",
+    "categories": {
+      "all": "Alla kanaler",
+      "sports": "Sport & evenemang",
+      "movies": "Film och film",
+      "news": "Internationella nyheter",
+      "kids": "Barn & Familj",
+      "documentary": "Dokumentär",
+      "music": "Musik & Radio"
+    },
+    "features": {
+      "f1": "Ultra HD-strömning",
+      "f2": "Ingen buffring",
+      "f3": "EPG ingår",
+      "f4": "7-dagars ikapp"
+    }
+  },
+  "About": {
+    "title": "Omdefinierar TV",
+    "subtitle": "Tillhandahåller förstklassig underhållning till hushåll över hela Europa sedan 2018.",
+    "missionTitle": "Vårt uppdrag",
+    "missionDesc": "För att leverera den mest stabila och högsta kvalitet IPTV-upplevelsen utan de höga kostnaderna för traditionell kabel.",
+    "stats": {
+      "users": "100 000+ aktiva användare",
+      "uptime": "99,99 % serverdriftstid",
+      "support": "Omedelbar support"
+    }
+  },
+  "Contact": {
+    "title": "Hör av dig",
+    "subtitle": "Har du frågor? Vårt team är tillgängligt 24/7 för att hjälpa dig.",
+    "form": {
+      "name": "Fullständigt namn",
+      "email": "E-postadress",
+      "subject": "Ämne",
+      "message": "Ditt meddelande",
+      "submit": "Skicka meddelande",
+      "success": "Meddelandet har skickats! Vi återkommer till dig inom kort."
+    },
+    "info": {
+      "email": "support@premiumtv.services",
+      "whatsapp": "+44 700 000 000",
+      "hours": "24/7 teknisk support"
+    }
+  },
+  "Fifa": {
+    "title": "FIFA World Cup & Live Sport",
+    "subtitle": "Se alla VM-matcher i fantastisk 4K Ultra HD. Missa aldrig ett mål med vår premiumsporttäckning.",
+    "matchTitle": "Schema för livematcher",
+    "qualityTitle": "Upplev Stadium Atmospher",
+    "qualityDesc": "Våra dedikerade sportservrar säkerställer noll-lag streaming under toppevenemang som FIFA World Cup och Champions League.",
+    "cta": "Skaffa Sports Pass nu"
+  },
+  "Footer": {
+    "tagline": "TV omarbetad för hela Europa. Premium IPTV-tjänster med 20 000+ kanaler.",
+    "quickLinks": "Snabblänkar",
+    "countries": "Länder",
+    "support": "Support",
+    "copyright": "© 2026 PremiumTVServices. Alla rättigheter reserverade."
+  },
+  "Home": {
+    "hero": {
+      "headline": "TELEVISIONEN OMSTÄLLDES FÖR HELA EUROPA",
+      "subheadline": "Upplev den ultimata underhållningen med 4K Ultra HD-streaming, 20 000+ livekanaler och komplett europeisk täckning.",
+      "ctaPrimary": "Starta gratis provperiod",
+      "ctaSecondary": "Bläddra bland kanaler"
+    },
+    "stats": {
+      "channels": "20 000+ livekanaler",
+      "quality": "4K Ultra HD",
+      "countries": "50+ länder",
+      "uptime": "99,9 % drifttid"
+    },
+    "features": {
+      "title": "Varför välja Premium TV?",
+      "subtitle": "Oöverträffad kvalitet, tillförlitlighet och underhållning för den moderna tittaren.",
+      "f1Title": "20 000+ livekanaler",
+      "f1Desc": "Få tillgång till kanaler från hela världen, inklusive sport, filmer och nyheter.",
+      "f2Title": "4K Ultra HD-kvalitet",
+      "f2Desc": "Upplev kristallklar streaming med noll buffring på alla enheter.",
+      "f3Title": "7-dagars ikapp",
+      "f3Desc": "Missa aldrig en show med vår omfattande flerdagars upphämtning.",
+      "f4Title": "Premium-support dygnet runt",
+      "f4Desc": "Vårt engagerade team är alltid här för att hjälpa dig att få den bästa upplevelsen."
+    },
+    "pricing": {
+      "title": "Premium underhållningsplaner",
+      "subtitle": "Välj den perfekta planen för dina streamingbehov.",
+      "popular": "Mest populära",
+      "monthly": "Månad",
+      "months": "månader",
+      "year": "år",
+      "featuresList": {
+        "channels": "20 000+ livekanaler",
+        "vod": "60 000+ VOD och serier",
+        "quality": "4K / Ultra HD / HD",
+        "devices": "Alla enheter stöds",
+        "catchup": "7 dagar ikapp",
+        "support": "24/7 teknisk support"
+      },
+      "plans": {
+        "basic": {
+          "name": "Standardpass",
+          "price": "14,99",
+          "duration": "1 månad"
+        },
+        "pro": {
+          "name": "Premium Elite",
+          "price": "44,99",
+          "duration": "6 månader"
+        },
+        "ultra": {
+          "name": "Ultimat livstid",
+          "price": "74,99",
+          "duration": "12 månader"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Vad våra användare säger",
+      "subtitle": "Följ med tusentals nöjda tittare över hela Europa som har valt Premium TV.",
+      "items": {
+        "t1": {
+          "name": "Marcus Schmidt",
+          "location": "Berlin, Tyskland",
+          "text": "4K-kvaliteten är faktiskt verklig. Jag har provat många tjänster, men det här är den mest stabila och högsta kvalitet jag har hittat."
+        },
+        "t2": {
+          "name": "Antonio Rossi",
+          "location": "Rom, Italien",
+          "text": "Bästa sportbevakningen någonsin. Champions League och F1 i perfekt kvalitet utan buffring. Rekommenderas varmt!"
+        },
+        "t3": {
+          "name": "Elena Dubois",
+          "location": "Paris, Frankrike",
+          "text": "Installationen var så enkel på min Smart TV. Kundsupport hjälpte mig inom några minuter när jag hade en fråga om kanallistan."
+        }
+      }
+    },
+    "faq": {
+      "title": "Vanliga frågor",
+      "subtitle": "Allt du behöver veta om våra premium IPTV-tjänster.",
+      "items": {
+        "q1": {
+          "q": "Vilka enheter stöds?",
+          "a": "Vi stöder alla enheter: Smart TV (Samsung, LG, Sony), Android-boxar, Firestick, Apple TV, Smartphones och Mag-boxar."
+        },
+        "q2": {
+          "q": "Hur lång tid tar det att aktivera?",
+          "a": "De flesta konton aktiveras inom 15-30 minuter efter betalning. Du kommer att få ett mejl med alla instruktioner."
+        },
+        "q3": {
+          "q": "Behöver jag ett VPN?",
+          "a": "Nej, ett VPN krävs inte eftersom vi använder avancerad frysskyddsteknik. Du kan dock använda en om du föredrar det."
+        },
+        "q4": {
+          "q": "Kan jag använda det på flera enheter?",
+          "a": "Våra standardplaner stöder en enhet i taget. Kontakta oss för flerrumspaket om du behöver samtidiga streams."
+        }
+      }
+    }
+  },
+  "Reseller": {
+    "title": "Bli återförsäljare",
+    "subtitle": "Gå med i vårt nätverk och starta ditt eget IPTV-företag idag med vår premiuminfrastruktur.",
+    "benefits": {
+      "title": "Varför samarbeta med oss?",
+      "b1Title": "Höga vinstmarginaler",
+      "b1Desc": "Få krediter till grossistpriser och sälj till dina egna priser.",
+      "b2Title": "Professionell panel",
+      "b2Desc": "Hantera dina kunder, linjer och tester med vår lättanvända återförsäljarinstrumentpanel.",
+      "b3Title": "Stabilitet på högsta nivå",
+      "b3Desc": "Våra servrar är optimerade för trafik med hög volym med 99,9 % drifttidsgaranti.",
+      "b4Title": "Dedikerad support dygnet runt",
+      "b4Desc": "Återförsäljare får prioriterat stöd för att säkerställa att deras verksamhet går smidigt."
+    },
+    "cta": "Kontakt för återförsäljarpanel",
+    "panelFeatures": [
+      "Skapa gratis provperioder",
+      "Hantera flera subs",
+      "Anpassat DNS-alternativ",
+      "Support för alla enheter"
+    ]
+  },
+  "WhatsApp": {
+    "phone": "+44700000000",
+    "orderMessage": "Hej! Jag skulle vilja beställa {plan}-planen från din webbplats.",
+    "resellerMessage": "Hej, jag är intresserad av att bli återförsäljare. Ange mer information om panelen och priser.",
+    "trialMessage": "Hej! Jag vill begära en 24-timmars gratis provperiod."
+  }
+}

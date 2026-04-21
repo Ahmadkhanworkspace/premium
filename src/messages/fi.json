@@ -1,0 +1,208 @@
+{
+  "Navbar": {
+    "home": "Kotiin",
+    "channels": "Kanavat",
+    "fifa": "World Cup",
+    "pricing": "Hinnoittelu",
+    "about": "Tietoja",
+    "blog": "Blogi",
+    "faq": "FAQ",
+    "contact": "Ota yhteyttä",
+    "reseller": "Jälleenmyyjä",
+    "cta": "Aloita",
+    "plans": "Suunnitelmat"
+  },
+  "Channels": {
+    "title": "Premium-kanavan valinta",
+    "subtitle": "Tutustu laajaan kirjastoomme, jossa on yli 20 000 live-kanavaa kaikissa luokissa.",
+    "searchPlaceholder": "Hae kanavia tai luokkia...",
+    "categories": {
+      "all": "Kaikki kanavat",
+      "sports": "Urheilu ja tapahtumat",
+      "movies": "Elokuvat ja elokuvat",
+      "news": "Kansainväliset uutiset",
+      "kids": "Lapset & Perhe",
+      "documentary": "Dokumentti",
+      "music": "Musiikki & Radio"
+    },
+    "features": {
+      "f1": "Ultra HD -suoratoisto",
+      "f2": "Ei puskurointia",
+      "f3": "EPG mukana",
+      "f4": "7 päivän kiinniotto"
+    }
+  },
+  "About": {
+    "title": "Television uudelleenmäärittely",
+    "subtitle": "Tarjonnut ensiluokkaista viihdettä kotitalouksille kaikkialla Euroopassa vuodesta 2018 lähtien.",
+    "missionTitle": "Tehtävämme",
+    "missionDesc": "Vakain ja laadukkain IPTV-kokemus ilman perinteisen kaapelin korkeita kustannuksia.",
+    "stats": {
+      "users": "Yli 100 000 aktiivista käyttäjää",
+      "uptime": "99,99 % palvelimen käyttöaika",
+      "support": "Välitön tuki"
+    }
+  },
+  "Contact": {
+    "title": "Ota yhteyttä",
+    "subtitle": "Onko sinulla kysyttävää? Tiimimme on käytettävissäsi 24/7 auttamaan sinua.",
+    "form": {
+      "name": "Koko nimi",
+      "email": "Sähköpostiosoite",
+      "subject": "Aihe",
+      "message": "Viestisi",
+      "submit": "Lähetä Viesti",
+      "success": "Viesti lähetetty onnistuneesti! Palaamme sinuun pian."
+    },
+    "info": {
+      "email": "support@premiumtv.services",
+      "whatsapp": "+44 700 000 000",
+      "hours": "24/7 tekninen tuki"
+    }
+  },
+  "Fifa": {
+    "title": "FIFA World Cup ja live-urheilu",
+    "subtitle": "Katso kaikki MM-kisojen ottelut upealla 4K Ultra HD -laadulla. Älä koskaan missaa maalia ensiluokkaisen urheilulähetyksen avulla.",
+    "matchTitle": "Live-otteluiden aikataulu",
+    "qualityTitle": "Koe stadionin tunnelma",
+    "qualityDesc": "Urheilupalvelimemme takaavat viivettömän suoratoiston huipputapahtumien, kuten FIFA World Cupin ja Mestarien liigan, aikana.",
+    "cta": "Hanki Sports Pass nyt"
+  },
+  "Footer": {
+    "tagline": "Televisio suunniteltu uudelleen koko Eurooppaa varten. Ensiluokkaiset IPTV-palvelut yli 20 000 kanavalla.",
+    "quickLinks": "Pikalinkit",
+    "countries": "maat",
+    "support": "Tuki",
+    "copyright": "© 2026 PremiumTVServices. Kaikki oikeudet pidätetään."
+  },
+  "Home": {
+    "hero": {
+      "headline": "TELEVISIO MUISTETTU UUDELLEEN KAIKKI EUROOPPAAN",
+      "subheadline": "Koe parasta viihdettä 4K Ultra HD -suoratoiston, yli 20 000 live-kanavan ja täydellisen eurooppalaisen kattavuuden ansiosta.",
+      "ctaPrimary": "Aloita ilmainen kokeilu",
+      "ctaSecondary": "Selaa kanavia"
+    },
+    "stats": {
+      "channels": "Yli 20 000 live-kanavaa",
+      "quality": "4K Ultra HD",
+      "countries": "50+ maata",
+      "uptime": "99,9 % käyttöaika"
+    },
+    "features": {
+      "title": "Miksi valita Premium TV?",
+      "subtitle": "Verraton laatu, luotettavuus ja viihde nykyaikaiselle katsojalle.",
+      "f1Title": "Yli 20 000 live-kanavaa",
+      "f1Desc": "Käytä kanavia ympäri maailmaa, kuten urheilua, elokuvia ja uutisia.",
+      "f2Title": "4K Ultra HD -laatu",
+      "f2Desc": "Koe kristallinkirkas suoratoisto ilman puskurointia kaikilla laitteilla.",
+      "f3Title": "7 päivän kiinniotto",
+      "f3Desc": "Älä koskaan missaa esitystä kattavan monipäiväisen seurantapalvelumme avulla.",
+      "f4Title": "24/7 Premium-tuki",
+      "f4Desc": "Omistautunut tiimimme on aina valmiina auttamaan sinua saamaan parhaan kokemuksen."
+    },
+    "pricing": {
+      "title": "Premium-viihdesuunnitelmat",
+      "subtitle": "Valitse täydellinen suunnitelma suoratoistotarpeisiisi.",
+      "popular": "Suosituin",
+      "monthly": "Kuukausi",
+      "months": "Kuukausia",
+      "year": "vuosi",
+      "featuresList": {
+        "channels": "Yli 20 000 live-kanavaa",
+        "vod": "Yli 60 000 VOD:ta ja sarjaa",
+        "quality": "4K / Ultra HD / HD",
+        "devices": "Kaikki laitteet tuetut",
+        "catchup": "7 päivää kiinni",
+        "support": "24/7 tekninen tuki"
+      },
+      "plans": {
+        "basic": {
+          "name": "Normaali passi",
+          "price": "14.99",
+          "duration": "1 kuukausi"
+        },
+        "pro": {
+          "name": "Premium Elite",
+          "price": "44,99",
+          "duration": "6 kuukautta"
+        },
+        "ultra": {
+          "name": "Lopullinen elinikä",
+          "price": "74,99",
+          "duration": "12 kuukautta"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Mitä käyttäjämme sanovat",
+      "subtitle": "Liity tuhansien tyytyväisten katsojien joukkoon eri puolilla Eurooppaa, jotka ovat valinneet Premium TV:n.",
+      "items": {
+        "t1": {
+          "name": "Marcus Schmidt",
+          "location": "Berliini, Saksa",
+          "text": "4K-laatu on todella todellista. Olen kokeillut monia palveluita, mutta tämä on vakain ja laadukkain mitä olen löytänyt."
+        },
+        "t2": {
+          "name": "Antonio Rossi",
+          "location": "Rooma, Italia",
+          "text": "Paras urheilulähetys ikinä. Mestarien liiga ja F1 täydellisessä laadussa ilman puskurointia. Erittäin suositeltavaa!"
+        },
+        "t3": {
+          "name": "Elena Dubois",
+          "location": "Pariisi, Ranska",
+          "text": "Asennus oli niin helppoa Smart TV:ssäni. Asiakastuki auttoi minua muutamassa minuutissa, kun minulla oli kysyttävää kanavaluettelosta."
+        }
+      }
+    },
+    "faq": {
+      "title": "Usein kysytyt kysymykset",
+      "subtitle": "Kaikki mitä sinun tulee tietää premium-IPTV-palveluistamme.",
+      "items": {
+        "q1": {
+          "q": "Mitä laitteita tuetaan?",
+          "a": "Tuemme kaikkia laitteita: älytelevisioita (Samsung, LG, Sony), Android-boxeja, Firestickiä, Apple TV:tä, älypuhelimia ja Mag-boxeja."
+        },
+        "q2": {
+          "q": "Kuinka kauan aktivointi kestää?",
+          "a": "Useimmat tilit aktivoidaan 15-30 minuutin kuluessa maksusta. Saat sähköpostiisi kaikki ohjeet."
+        },
+        "q3": {
+          "q": "Tarvitsenko VPN:n?",
+          "a": "Ei, VPN:ää ei tarvita, koska käytämme kehittynyttä jäätymisenestotekniikkaa. Voit kuitenkin käyttää yhtä, jos haluat."
+        },
+        "q4": {
+          "q": "Voinko käyttää sitä useilla laitteilla?",
+          "a": "Vakiopakettimme tukevat yhtä laitetta kerrallaan. Ota yhteyttä usean huoneen paketeista, jos tarvitset samanaikaisia ​​streameja."
+        }
+      }
+    }
+  },
+  "Reseller": {
+    "title": "Ryhdy jälleenmyyjäksi",
+    "subtitle": "Liity verkostoomme ja aloita oma IPTV-liiketoimintasi jo tänään premium-infrastruktuurimme avulla.",
+    "benefits": {
+      "title": "Miksi tehdä yhteistyötä kanssamme?",
+      "b1Title": "Korkeat voittomarginaalit",
+      "b1Desc": "Hanki luottoja tukkuhinnoilla ja myy omilla hinnoillasi.",
+      "b2Title": "Ammattimainen paneeli",
+      "b2Desc": "Hallitse asiakkaitasi, linjojasi ja kokeilujasi helppokäyttöisen jälleenmyyjän hallintapaneelin avulla.",
+      "b3Title": "Huipputason vakaus",
+      "b3Desc": "Palvelimemme on optimoitu suuren volyymin liikenteeseen 99,9 %:n käyttöaikatakuulla.",
+      "b4Title": "24/7 oma tuki",
+      "b4Desc": "Jälleenmyyjät saavat ensisijaista tukea varmistaakseen liiketoimintansa sujuvan."
+    },
+    "cta": "Ota yhteyttä jälleenmyyjäpaneeliin",
+    "panelFeatures": [
+      "Luo ilmaisia kokeilujaksoja",
+      "Hallitse useita tilauksia",
+      "Mukautettu DNS-vaihtoehto",
+      "Kaikkien laitteiden tuki"
+    ]
+  },
+  "WhatsApp": {
+    "phone": "+44700000000",
+    "orderMessage": "Hei, haluaisin tilata {plan}-suunnitelman verkkosivustoltasi.",
+    "resellerMessage": "Hei, olen kiinnostunut jälleenmyyjäksi ryhtymisestä. Anna lisätietoja paneelista ja hinnasta.",
+    "trialMessage": "Hei, haluaisin pyytää 24 tunnin ilmaisen kokeilun."
+  }
+}
