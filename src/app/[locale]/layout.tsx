@@ -37,13 +37,9 @@ export async function generateMetadata(props: { params: Promise<{ locale: string
     },
     alternates: {
       canonical: `/${locale}`,
-      languages: {
-        'en': '/en',
-        'fr': '/fr',
-        'de': '/de',
-        'es': '/es',
-        'it': '/it',
-      }
+      languages: Object.fromEntries(
+        locales.map((l) => [l, `/${l}`])
+      ),
     }
   };
 }

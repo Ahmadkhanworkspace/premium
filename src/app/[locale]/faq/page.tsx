@@ -1,10 +1,18 @@
 import { FAQ } from "@/components/sections/FAQ";
 import { Metadata } from "next";
+import { getTranslations } from "next-intl/server";
 
-export const metadata: Metadata = {
-  title: "Frequently Asked Questions - Premium IPTV Services",
-  description: "Find answers to common questions about device support, activation times, VPN requirements, and more.",
-};
+export async function generateMetadata(props: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const params = await props.params;
+  const locale = params.locale;
+  const t = await getTranslations({ locale, namespace: "Home.faq" });
+
+  return {
+    title: `${t("title")} | Premium TV Support`,
+    description: t("subtitle"),
+    keywords: ["IPTV FAQ", "How to install IPTV", "Best IPTV Europe Support", "IPTV Subscription Help", "Smart TV IPTV Setup"],
+  };
+}
 
 export default function FAQPage() {
   return (

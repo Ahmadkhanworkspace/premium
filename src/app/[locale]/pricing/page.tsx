@@ -1,11 +1,19 @@
 import { Pricing } from "@/components/sections/Pricing";
 import { FAQ } from "@/components/sections/FAQ";
 import { Metadata } from "next";
+import { getTranslations } from "next-intl/server";
 
-export const metadata: Metadata = {
-  title: "Premium IPTV Pricing - Affordable Entertainment Overseas",
-  description: "Explore our flexible pricing plans for premium IPTV services throughout Europe. 4K quality, 20,000+ channels, and 24/7 support.",
-};
+export async function generateMetadata(props: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const params = await props.params;
+  const locale = params.locale;
+  const t = await getTranslations({ locale, namespace: "Home.pricing" });
+
+  return {
+    title: `${t("title")} | Premium IPTV Subscriptions`,
+    description: t("subtitle"),
+    keywords: ["IPTV Pricing", "Cheap IPTV Europe", "Premium IPTV Subscription", "Best IPTV 2026", "4K Streaming Pass"],
+  };
+}
 
 export default function PricingPage() {
   return (

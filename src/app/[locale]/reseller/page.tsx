@@ -5,6 +5,20 @@ import { motion } from "framer-motion";
 import { Check, ShieldCheck, Zap, BarChart3, Users, Globe } from "lucide-react";
 import { getWhatsAppLink, WHATSAPP_MESSAGES } from "@/lib/whatsapp";
 import React from "react";
+import { Metadata } from "next";
+import { getTranslations } from "next-intl/server";
+
+export async function generateMetadata(props: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const params = await props.params;
+  const locale = params.locale;
+  const t = await getTranslations({ locale, namespace: "Reseller" });
+
+  return {
+    title: t("title"),
+    description: t("subtitle"),
+    keywords: ["IPTV Reseller", "Start IPTV Business", "Reseller Panel IPTV", "Wholesale IPTV Credits", "Best IPTV Reseller 2026"],
+  };
+}
 
 export default function ResellerPage() {
   const t = useTranslations("Reseller");
