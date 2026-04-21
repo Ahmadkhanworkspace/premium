@@ -9,7 +9,6 @@ export default function ContactPage() {
   const t = useTranslations("Contact");
 
   const contactInfo = [
-    { icon: <Mail className="w-6 h-6" />, label: "Email Support", value: t("info.email"), desc: "For technical queries & setup help" },
     { icon: <MessageSquare className="w-6 h-6" />, label: "WhatsApp / Telegram", value: t("info.whatsapp"), desc: "Instant response during active hours" },
     { icon: <Clock className="w-6 h-6" />, label: "Business Hours", value: t("info.hours"), desc: "Monitoring servers 24/7/365" },
   ];
@@ -75,12 +74,12 @@ export default function ContactPage() {
                       />
                     </div>
                     <div className="space-y-3">
-                      <label className="text-xs font-bold tracking-[0.3em] text-gold-primary uppercase ml-1 opacity-60">{t("form.email")}</label>
+                      <label className="text-xs font-bold tracking-[0.3em] text-gold-primary uppercase ml-1 opacity-60">{t("form.phone")}</label>
                       <input 
-                        type="email" 
+                        type="tel" 
                         required
                         className="w-full bg-white/[0.03] border border-white/5 rounded-2xl px-6 py-5 outline-none focus:border-gold-primary/40 focus:bg-white/[0.05] transition-all text-lg font-inter text-white placeholder:text-white/10"
-                        placeholder="your@email.com"
+                        placeholder="+44 000 000 000"
                       />
                     </div>
                   </div>
