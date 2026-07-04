@@ -16,7 +16,7 @@ export function StructuredData({ locale }: { locale: string }) {
     },
     "contactPoint": {
       "@type": "ContactPoint",
-      "telephone": "+44 781 833 1940",
+      "telephone": "+44 798 859 5964",
       "contactType": "customer service",
       "availableLanguage": ["English", "French", "German", "Spanish", "Arabic"]
     }

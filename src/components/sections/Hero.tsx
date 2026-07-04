@@ -47,7 +47,7 @@ export function Hero() {
             <div className="h-px w-8 bg-gold-primary/30" />
           </motion.div>
           
-          <h1 className="text-6xl md:text-8xl lg:text-9xl font-bebas tracking-tighter leading-[0.85] mb-10">
+          <h1 className="text-4xl md:text-8xl lg:text-9xl font-bebas tracking-tighter leading-[0.85] mb-10">
             <span className="block text-white mb-2">{t("headline").split(" ").slice(0, 2).join(" ")}</span>
             <span className="block gold-gradient drop-shadow-[0_0_30px_rgba(201,168,76,0.3)]">{t("headline").split(" ").slice(2).join(" ")}</span>
           </h1>
@@ -80,7 +80,7 @@ export function Hero() {
             </Link>
           </div>
 
-          <div className="grid grid-cols-2 lg:grid-cols-4 gap-12 max-w-4xl mx-auto p-8 rounded-[3rem] border border-white/5 bg-white/[0.01] backdrop-blur-sm">
+          <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 md:gap-12 max-w-4xl mx-auto p-6 md:p-8 rounded-[2rem] md:rounded-[3rem] border border-white/5 bg-white/[0.01] backdrop-blur-sm">
             {stats.map((stat, idx) => (
               <motion.div
                 key={stat.label}
@@ -89,7 +89,7 @@ export function Hero() {
                 transition={{ delay: 0.6 + idx * 0.1 }}
                 className="flex flex-col items-center group cursor-default"
               >
-                <span className="text-4xl md:text-5xl font-bebas text-white group-hover:text-gold-primary transition-colors duration-500 mb-2">{stat.icon}</span>
+                <span className="text-3xl md:text-5xl font-bebas text-white group-hover:text-gold-primary transition-colors duration-500 mb-1 md:mb-2">{stat.icon}</span>
                 <span className="text-[10px] text-gold-primary/60 uppercase tracking-[0.2em] font-bold text-center">{stat.label}</span>
               </motion.div>
             ))}

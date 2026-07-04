@@ -55,7 +55,7 @@
       "success": "Message sent successfully! We will get back to you shortly."
     },
     "info": {
-      "whatsapp": "+44 781 833 1940",
+      "whatsapp": "+44 798 859 5964",
       "hours": "24/7 Technical Support"
     }
   },
@@ -203,14 +203,14 @@
     "subtitle": "Experience the most stable 4K streaming service in {country} with local channels and zero buffering.",
     "cta": "Get Started in {country}",
     "features": {
-        "local": "Local {country} Channels",
-        "sports": "Premium European Sports",
-        "quality": "Ultra HD 4K Quality",
-        "support": "24/7 Local Support"
+      "local": "Local {country} Channels",
+      "sports": "Premium European Sports",
+      "quality": "Ultra HD 4K Quality",
+      "support": "24/7 Local Support"
     }
   },
   "WhatsApp": {
-    "phone": "+447818331940",
+    "phone": "+447988595964",
     "orderMessage": "Hi, I would like to order the {plan} plan from your website.",
     "resellerMessage": "Hi, I am interested in becoming a reseller. Please provide more information about the panel and pricing.",
     "trialMessage": "Hi, I would like to request a 24-hour free trial."

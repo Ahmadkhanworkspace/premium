@@ -1,5 +1,5 @@
 export const getWhatsAppLink = (message: string) => {
-  const phone = "447818331940"; // Client's provided phone
+  const phone = "447988595964"; // Client's provided phone
   const encodedMessage = encodeURIComponent(message);
   return `https://wa.me/${phone}?text=${encodedMessage}`;
 };

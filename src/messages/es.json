@@ -56,7 +56,7 @@
     },
     "info": {
       "email": "soporte@premiumtv.services",
-      "whatsapp": "+44 700 000 000",
+      "whatsapp": "+44 798 859 5964",
       "hours": "Soporte técnico 24 horas al día, 7 días a la semana"
     }
   },
@@ -200,7 +200,7 @@
     ]
   },
   "WhatsApp": {
-    "phone": "+44700000000",
+    "phone": "+447988595964",
     "orderMessage": "Hola, me gustaría solicitar el plan {plan} desde su sitio web.",
     "resellerMessage": "Hola, estoy interesado en ser revendedor. Proporcione más información sobre el panel y los precios.",
     "trialMessage": "Hola, me gustaría solicitar una prueba gratuita de 24 horas."

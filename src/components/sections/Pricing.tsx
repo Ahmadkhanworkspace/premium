@@ -67,7 +67,7 @@ export function Pricing() {
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
-            className="text-5xl md:text-6xl font-bebas tracking-wider mb-6"
+            className="text-4xl md:text-6xl font-bebas tracking-wider mb-6"
           >
             <span className="gold-gradient">{t("title")}</span>
           </motion.h2>
@@ -76,7 +76,7 @@ export function Pricing() {
             whileInView={{ opacity: 1 }}
             viewport={{ once: true }}
             transition={{ delay: 0.1 }}
-            className="text-white/40 text-lg md:text-xl font-inter leading-relaxed"
+            className="text-base md:text-xl text-white/40 font-inter leading-relaxed"
           >
             {t("subtitle")}
           </motion.p>
@@ -91,23 +91,23 @@ export function Pricing() {
               viewport={{ once: true }}
               transition={{ delay: idx * 0.1, duration: 0.8 }}
               className={cn(
-                "group relative flex flex-col p-10 rounded-[3rem] border transition-all duration-700 hover-lift",
+                "group relative flex flex-col p-6 md:p-10 rounded-[2rem] md:rounded-[3rem] border transition-all duration-700 hover-lift",
                 plan.popular 
                   ? "border-gold-primary bg-gold-primary/[0.03] lg:scale-110 z-10 shadow-[0_40px_100px_-20px_rgba(201,168,76,0.15)]" 
                   : "border-white/5 bg-white/[0.02] hover:border-white/20"
               )}
             >
               {plan.popular && (
-                <div className="absolute -top-5 left-1/2 -translate-x-1/2 bg-gold-primary text-obsidian px-6 py-1.5 rounded-full text-[10px] font-bold uppercase tracking-[0.3em] flex items-center gap-1 shadow-2xl">
+                <div className="absolute -top-3 md:-top-5 left-1/2 -translate-x-1/2 bg-gold-primary text-obsidian px-4 md:px-6 py-1 md:py-1.5 rounded-full text-[8px] md:text-[10px] font-bold uppercase tracking-[0.3em] flex items-center gap-1 shadow-2xl z-20">
                   <Star size={12} fill="currentColor" /> {t("popular")}
                 </div>
               )}
 
-              <div className="mb-10 text-center lg:text-left">
-                <h3 className="text-3xl font-bebas tracking-wide mb-4 text-white group-hover:text-gold-primary transition-colors">{plan.name}</h3>
+              <div className="mb-8 md:mb-10 text-center lg:text-left">
+                <h3 className="text-2xl md:text-3xl font-bebas tracking-wide mb-3 md:mb-4 text-white group-hover:text-gold-primary transition-colors">{plan.name}</h3>
                 <div className="flex items-baseline justify-center lg:justify-start gap-2">
-                  <span className="text-6xl font-bebas text-gold-primary">€{plan.price}</span>
-                  <span className="text-sm text-white/30 font-inter uppercase tracking-widest font-bold">/ {plan.duration}</span>
+                  <span className="text-5xl md:text-6xl font-bebas text-gold-primary">€{plan.price}</span>
+                  <span className="text-xs md:text-sm text-white/30 font-inter uppercase tracking-widest font-bold">/ {plan.duration}</span>
                 </div>
               </div>
 
